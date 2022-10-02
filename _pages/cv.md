@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Computer Science, Zhejiang University, 2025 (expected)
+* B.S. in Engineering, Zhejiang University, 2020
+* minor in Undergraduate of Pulic Administration (UPA), Chu Kochen Honors College, Zhejiang University, 2020
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022.07-present: Research Intern
+  * Ant Group
+  * _Recommendation System Department_
+  * Researches: device-cloud collaborative recommendation system and federated learning.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2021.10-2022.6: Research Intern
+  * Zhejiang Lab
+  * _Big Data Institute_
+  * Researches: multi-agent social stimulation.
+ 
+* 2021.7-2021.9: Research Intern
+  * Huawei
+  * _Noah's Ark Lab_
+  * Researches: clustered federated learning and peer-to-peer federated learning.
 
-Publications
+Selected Honors
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Outstanding students of Zhejiang University, 2017-2019.
+* Outstanding student leaders of Zhejiang University, 2017-2019.
+* First Prize, Jiechang Innovation Driven Scholarship of Zhejiang University, 2019.09.
+
+Others
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Elite Student Summer Camp 2018 of Hongkong University of Science and Technology.
+* Student Deputy Director of Zhejiang University Television Station, 2018-2019
+* Director and Photographer of "[From Now On](https://www.youtube.com/watch?v=tR443a5dTbI)" (Welcome Video of Zhejiang University in 2018)
