@@ -11,7 +11,7 @@ redirect_from:
 I am now pursuing my Ph.D. career in College of Computer Science and Technology, *Zhejiang University*, China. Before that, I received my bachelor degree in *Engineering* from Zhejiang University (ZJU); meanwhile, I obtained an *honorary undergraduate degree* from Chu Kochen Honors College of ZJU. My main research interests lie in **Collaborative Machine Learning** and **Big Data Governace**.
 
 ## Contact
-Email: zexi.li\[at\]zju.edu.cn / tomleeze@gmail.com
+Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com
 
 ## Research Interests
 * **Collaborative Machine Learning**
