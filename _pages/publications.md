@@ -15,8 +15,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   **Zexi Li**, Feng Mao\#, and Chao Wu\#  
   _Patterns, Cell Press._ (to appear)
 - Towards Effective Clustered Federated Learning: A Peer-to-peer Framework with Adaptive Neighbor Matching  
-  **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang, and Chao Wu\#
-  _MLSys2022 Workshop \[[arXiv](https://arxiv.org/pdf/2203.12285.pdf)\]
+  **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang, and Chao Wu\#  
+  _MLSys2022 Workshop_ \[[arXiv](https://arxiv.org/pdf/2203.12285.pdf)\]
   
 ## 2021
 - Boosting the generalization ability of Vis-NIR-spectroscopy-based regression models through dimension reduction and transfer learning  
