@@ -14,7 +14,10 @@ main:
     
   - title: "CV"
     url: /cv/
-    
+
+  - title: "Contact"
+    url: /year-archive/
+
   - title: "Others"
     url: /portfolio/
     
