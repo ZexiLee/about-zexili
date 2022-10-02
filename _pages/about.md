@@ -20,3 +20,10 @@ I am now pursuing my Ph.D. career in College of Computer Science and Technology,
 * **Big Data Governance**
   * Data rights and open science: *model sharing beyond data sharing*.
   * Computational social science from big data: *data-driven techniques* and public affairs study.
+
+## Recent News
+* \[2022.09\] Our new perspective paper "Can we share models if sharing data is not an option" is accepted by _Patterns, Cell Press_. _Patterns_ is a child-journal about _data science_ of Cell Press, and it will have a first strong impact factor in 2023.
+
+## Academic Service
+* Invited Reviewers: TKDE.
+* Help for Review: AAAI2022, NeurIPS2022.
