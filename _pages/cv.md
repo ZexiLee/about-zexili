@@ -34,14 +34,14 @@ Work Experience
 
 Selected Honors
 ======
-* Outstanding postgraduate students of ZJU, 2021-2022.
+* Outstanding Postgraduate Students of ZJU, 2021-2022.
 * Outstanding Undergraduate Dissertation of the Major, 2020 summer.
 * First Prize of Jiechang Innovation Driven Scholarship of ZJU, 2018-2019.
 * Yao Yusu & He Jianyun Scholarship of ZJU, 2017-2019.
 * Exellent Social Practice Scholarship of ZJU, 2018-2019.
 * Exellent Social Work Scholarship of ZJU, 2018-2019.
-* Outstanding student leader awards of ZJU, 2017-2019.
-* Outstanding students of ZJU, 2017-2019.
+* Outstanding Student Leader Awards of ZJU, 2017-2019.
+* Outstanding Students of ZJU, 2017-2019.
 
 Others
 ======
