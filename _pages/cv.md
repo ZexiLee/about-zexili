@@ -34,12 +34,16 @@ Work Experience
 
 Selected Honors
 ======
-* Outstanding students of Zhejiang University, 2017-2019.
-* Outstanding student leaders of Zhejiang University, 2017-2019.
-* First Prize, Jiechang Innovation Driven Scholarship of Zhejiang University, 2019.09.
+* Outstanding postgraduate students of ZJU, 2021-2022.
+* Outstanding Undergraduate Dissertation of the Major, 2020 summer.
+* First Prize of Jiechang Innovation Driven Scholarship of ZJU, 2018-2019.
+* Yao Yusu & He Jianyun Scholarship of ZJU, 2017-2019.
+* Exellent Social Practice Scholarship of ZJU, 2018-2019.
+* Exellent Social Work Scholarship of ZJU, 2018-2019.
+* Outstanding student leader awards of ZJU, 2017-2019.
+* Outstanding students of ZJU, 2017-2019.
 
 Others
 ======
-* Elite Student Summer Camp 2018 of Hongkong University of Science and Technology.
-* Student Deputy Director of Zhejiang University Television Station, 2018-2019
-* Director and Photographer of "[From Now On](https://www.youtube.com/watch?v=tR443a5dTbI)" (Welcome Video of Zhejiang University in 2018)
+* I was delighted to join the *Elite Student Summer Camp of Hongkong University of Science and Technology* in 2018 Summer.
+* I was enthusiastic in *Media and Communication* (especially photography and video making) when I was an undergraduate student, and I was grateful to work in the Broadcasting & Television Station of Zhejiang University (ZJUBTV) from 2016 to 2019. During the period, I was the *Director of Network Communications Center of ZJUBTV and the Student Deputy Director of ZJUBTV*, from 2018 to 2019. I was so glad to produce some interesting videos about ZJU, and one of them is [From Now On](https://www.youtube.com/watch?v=tR443a5dTbI)", a Welcome Video of Zhejiang University in 2018. Even now, you can see my videos on the screens of the campus, especially the one about the sculptures of Zijingang Campus, often shown on the screen near the school dining hall. :)
