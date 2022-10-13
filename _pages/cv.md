@@ -34,7 +34,7 @@ Work Experience
 
 Selected Honors
 ======
-* Outstanding Postgraduate Students of ZJU, 2021-2022.
+<!-- * Outstanding Postgraduate Students of ZJU, 2021-2022. -->
 * Outstanding Undergraduate Dissertation of the Major, 2020 summer.
 * First Prize of Jiechang Innovation Driven Scholarship of ZJU, 2018-2019.
 * Yao Yusu & He Jianyun Scholarship of ZJU, 2017-2019.
