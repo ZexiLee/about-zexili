@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, Zhejiang University, 2025 (expected)
+* Ph.D. in Artificial Intelligence, Zhejiang University, 2025 (expected)
 * B.S. in Engineering, Zhejiang University, 2020
 * minor in Undergraduate of Pulic Administration (UPA), Chu Kochen Honors College, Zhejiang University, 2020
 
