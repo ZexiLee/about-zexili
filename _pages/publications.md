@@ -12,8 +12,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## 2022
 - Towards Effective Clustered Federated Learning: A Peer-to-peer Framework with Adaptive Neighbor Matching  
-  **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang, and Chao Wu\# 
-  long version in _IEEE Transactions on Big Data_. (Q1, JCR 1, IF: 4.271) \[[paper](https://arxiv.org/pdf/2203.12285.pdf)\] (final version to appear)
+  **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang, and Chao Wu\#   
+  long version in _IEEE Transactions on Big Data_. (Q1, JCR 1, IF: 4.271) \[[paper](https://arxiv.org/pdf/2203.12285.pdf)\] (final version to appear)   
   short version in _MLSys2022 Workshop_ \[[poster](https://crossfl2022.github.io/abstracts/Abstract4.pdf)\]
 - Can We Share Models If Sharing Data Is Not an Option?  
   **Zexi Li**, Feng Mao\#, and Chao Wu\#  
