@@ -17,7 +17,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   short version in _MLSys2022 Workshop_ \[[poster](https://crossfl2022.github.io/abstracts/Abstract4.pdf)\]
 - Can We Share Models If Sharing Data Is Not an Option?  
   **Zexi Li**, Feng Mao\#, and Chao Wu\#  
-  _Patterns, Cell Press._ (to appear)
+  _Patterns, Cell Press._ \[[paper](https://www.cell.com/patterns/fulltext/S2666-3899(22)00228-8#%20)\]
   
 ## 2021
 - Boosting the generalization ability of Vis-NIR-spectroscopy-based regression models through dimension reduction and transfer learning  
