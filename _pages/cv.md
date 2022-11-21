@@ -39,7 +39,7 @@ Selected Honors
 * First Prize of Jiechang Innovation Driven Scholarship of ZJU, 2018-2019.
 * Yao Yusu & He Jianyun Scholarship of ZJU, 2017-2019.
 * Exellent Social Practice Scholarship of ZJU, 2018-2019.
-* Exellent Social Work Scholarship of ZJU, 2018-2019.
+* Exellent Social Work Scholarship of ZJU, 2016-2017.
 * Outstanding Student Leader Awards of ZJU, 2017-2019.
 * Outstanding Students of ZJU, 2017-2019.
 
