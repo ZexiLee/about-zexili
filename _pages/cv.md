@@ -17,7 +17,7 @@ Education
 
 Work Experience
 ======
-* 2022.07-present: Research Intern
+* 2022.07-2022.11: Research Intern
   * Ant Group
   * _Recommendation System Department_
   * Researches: device-cloud collaborative recommendation system and federated learning.
@@ -25,7 +25,7 @@ Work Experience
 * 2021.10-2022.6: Research Intern
   * Zhejiang Lab
   * _Big Data Institute_
-  * Researches: multi-agent social stimulation.
+  * Researches: multi-agent social stimulation and federated learning.
  
 * 2021.7-2021.9: Research Intern
   * Huawei
@@ -38,10 +38,10 @@ Selected Honors
 * Outstanding Undergraduate Dissertation of the Major, 2020 summer.
 * First Prize of Jiechang Innovation Driven Scholarship of ZJU, 2018-2019.
 * Yao Yusu & He Jianyun Scholarship of ZJU, 2017-2019.
-* Exellent Social Practice Scholarship of ZJU, 2018-2019.
-* Exellent Social Work Scholarship of ZJU, 2016-2017.
 * Outstanding Student Leader Awards of ZJU, 2017-2019.
 * Outstanding Students of ZJU, 2017-2019.
+* Exellent Social Practice Scholarship of ZJU, 2018-2019.
+* Exellent Social Work Scholarship of ZJU, 2016-2017.
 
 Others
 ======
