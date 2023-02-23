@@ -9,7 +9,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 \* indicates equal contributions, \# indicates corresponding author.
 
-
+## 2023
+- Revisiting Weighted Aggregation in Federated Learning with Neural Networks  
+  **Zexi Li**, Tao Lin\#, Xinyi Shang, and Chao Wu\#  
+  _preprint._ \[[paper](https://arxiv.org/abs/2302.10911)\]
+  
 ## 2022
 - Towards Effective Clustered Federated Learning: A Peer-to-peer Framework with Adaptive Neighbor Matching  
   **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang\#, and Chao Wu\#   
