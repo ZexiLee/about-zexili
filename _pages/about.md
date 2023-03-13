@@ -25,7 +25,7 @@ Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com
   * Computational social science from big data: *data-driven techniques* and public affairs study.
 
 ## Recent News
-* **\[2023.03\]** Our paper "Learning Cautiously in Federated Learning with Noisy and Heterogeneous Clients" is accepted by _IEEE International Conference on Multimedia and Expo 2023 (ICME 2023)_! Congratulations to me and Chenrui!
+* **\[2023.03\]** Our paper "Learning Cautiously in Federated Learning with Noisy and Heterogeneous Clients" is accepted by _IEEE International Conference on Multimedia and Expo 2023 (**ICME 2023**)_! Congratulations to me and Chenrui!
 * **\[2023.03\]** I have joined the **BEST-MBA** (**B**usiness, **E**ngineering, **S**cience, and **T**echnology based **MBA** for on-campus postgradutes) program of _School of Management, Zhejiang University_.
 * **\[2022.11\]** Our paper ["Towards Effective Clustered Federated Learning: A Peer-to-peer Framework with Adaptive Neighbor Matching"](https://www.computer.org/csdl/journal/bd/5555/01/09954190/1Inoq0EldXG)\[[arxiv](https://arxiv.org/pdf/2203.12285.pdf)\] is online now.
 * **\[2022.11\]** Our paper ["Can we share models if sharing data is not an option?"](https://www.cell.com/patterns/fulltext/S2666-3899(22)00228-8#%20) is online now.
