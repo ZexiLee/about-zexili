@@ -10,6 +10,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 \* indicates equal contributions, \# indicates corresponding author.
 
 ## 2023
+- Learning Cautiously in Federated Learning with Noisy and Heterogeneous Clients  
+  Chenrui Wu\*, **Zexi Li**\*, Fangxin Wang\#, and Chao Wu\#  
+  _ICME 2023_. (CCF B, Top Conference in Multimedia) \[paper coming soon\]
 - Revisiting Weighted Aggregation in Federated Learning with Neural Networks  
   **Zexi Li**, Tao Lin\#, Xinyi Shang, and Chao Wu\#  
   _preprint._ \[[paper](https://arxiv.org/abs/2302.10911)\]
