@@ -24,7 +24,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   * Collaborative, privacy-preserving, robust, fair, and secure deep learning.
     * *Federated learning*: collaborative and privacy-preserving deep learning \[2, 4, 5, 6, 7\].
     * *Robustness*: noisy labels \[5\].
-  * Understanding training dynamics and generalization of deep neural networks.
+  * Training dynamics and generalization of deep neural networks.
     * *Weight decay reguralization* \[6\].
     * *Linear mode connectivity and permutation invariance*.
 
