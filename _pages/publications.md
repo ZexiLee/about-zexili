@@ -27,8 +27,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   * Understanding training dynamics and generalization of deep neural networks.
     * *Weight decay reguralization* \[6\].
     * *Linear mode connectivity and permutation invariance*.
-<!--     * Machine unlearning.
-    * Fairness, security, and other issues. -->
+
 --------
 ## Publications
 \* indicates equal contributions, \# indicates corresponding author.
