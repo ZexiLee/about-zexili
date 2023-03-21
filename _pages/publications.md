@@ -16,13 +16,19 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   * Edge-cloud collaborative & domain-transferred machine learning.
     *  *Edge-cloud collaboration in recommender systems*.
     *  *Transfer learning of regression models* \[2\].
-  * Socio-technical issues brought by *big data* and *machine learning*.
-    * 
+  * Socio-technical issues brought by big data and machine learning.
+    *  *Data collaboration and open science* \[3\].
+    *  *Big data driven medical reform studies* \[1\].
 
 * **Trustworthy and Generalized Deep Learning**
   * Collaborative, privacy-preserving, robust, fair, and secure deep learning.
+    * *Federated learning*: collaborative and privacy-preserving deep learning \[2, 4, 5, 6, 7\].
+    * *Robustness*: noisy labels \[5\].
   * Understanding training dynamics and generalization of deep neural networks.
-
+    * *Weight decay reguralization* \[6\].
+    * *Linear mode connectivity and permutation invariance*.
+<!--     * Machine unlearning.
+    * Fairness, security, and other issues. -->
 --------
 ## Publications
 \* indicates equal contributions, \# indicates corresponding author.
