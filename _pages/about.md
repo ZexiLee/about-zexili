@@ -14,15 +14,14 @@ I am now pursuing my Ph.D. career in *Artificial Intelligence* in College of Com
 Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com
 
 ## Research Interests
-* **Collaborative Machine Learning**
-  * Federated deep Learning: *efficient* & *robust* algorithm design and *generalization* & *training dynamics* understanding.
-  * Decentralized (peer-to-peer) federated learning: effective communication topology and *clustered heterogeneity*.
-  * Device-cloud collaborative machine learning: *personalization* and real-time performance, especially the adaptation in *recommendation system*.
-  * Domain-transferred machine learning: effective tools in *real-world applications*.
+* **Collaborative and Distributed Machine Learning**
+  * Federated deep Learning: algorithm design in terms of *generalization*, *personalization*, *robustness*, and *efficiency* & *training dynamics* understanding.
+  * Edge-cloud collaborative & domain-transferred machine learning: *real-world applications*.
+  * Socio-technical issues brought by *big data* and *machine learning*.
 
-* **Big Data Governance**
-  * Data rights and open science: *model sharing beyond data sharing*.
-  * Computational social science from big data: *data-driven techniques* and public affairs study.
+* **Trustworthy and Generalized Deep Learning**
+  * Collaborative, privacy-preserving, robust, fair, and secure deep learning.
+  * Understanding training dynamics and generalization of deep neural networks.
 
 ## Recent News
 * **\[2023.03\]** Our paper "Learning Cautiously in Federated Learning with Noisy and Heterogeneous Clients" is accepted by _IEEE International Conference on Multimedia and Expo 2023 (**ICME 2023**)_! Congratulations to me and Chenrui!
