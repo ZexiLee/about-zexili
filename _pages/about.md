@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now pursuing my Ph.D. career in *Artificial Intelligence* in College of Computer Science and Technology, *Zhejiang University*, China, supervised by Prof. [Chao Wu](https://wuchaozju.github.io/). Before that, I received my bachelor degree in *Engineering* from Zhejiang University (ZJU); meanwhile, I obtained an *honorary undergraduate degree* from Chu Kochen Honors College of ZJU. My main research interests lie in **Collaborative Machine Learning** and **Big Data Governace**.
+I am now pursuing my Ph.D. career in *Artificial Intelligence* in College of Computer Science and Technology, *Zhejiang University*, China, supervised by Prof. [Chao Wu](https://wuchaozju.github.io/). Before that, I received my bachelor degree in *Engineering* from Zhejiang University (ZJU); meanwhile, I obtained an *honorary undergraduate degree* from Chu Kochen Honors College of ZJU. My main research interests lie in **Collaborative and Distributed Machine Learning** and **Trustworthy and Generalized Deep Learning**.
 
 ## Contact
 Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com
