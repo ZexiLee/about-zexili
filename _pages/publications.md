@@ -26,7 +26,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
     * *Robustness*: noisy labels \[5\].
   * Training dynamics and generalization of deep neural networks.
     * *Weight decay reguralization* \[6\].
-    * *Linear mode connectivity and permutation invariance*.
+<!--     * *Linear mode connectivity and permutation invariance*. -->
 
 --------
 ## Publications
