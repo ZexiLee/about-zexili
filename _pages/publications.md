@@ -14,7 +14,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
     * *Personalization*: general personalization \[7\] and personalization under clustered heterogeneity \[4\].
     * *Robustness*: joint problem of noisy labels and non-IID data \[5\].
   * Edge-cloud collaborative & domain-transferred machine learning.
-    *  *Edge-cloud collaboration in recommender systems*.
+    *  *Edge-cloud collaboration in recommender systems* \[8\].
     *  *Transfer learning of regression models* \[2\].
   * Socio-technical issues brought by big data and machine learning.
     *  *Data collaboration and open science* \[3\].
@@ -22,7 +22,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 * **Trustworthy and Generalized Deep Learning**
   * Collaborative, privacy-preserving, robust, fair, and secure deep learning.
-    * *Federated learning*: collaborative and privacy-preserving deep learning \[2, 4, 5, 6, 7\].
+    * *Federated learning*: collaborative and privacy-preserving deep learning \[2, 4, 5, 6, 7, 8\].
     * *Robustness*: noisy labels \[5\].
   * Training dynamics and generalization of deep neural networks.
     * *Weight decay reguralization* \[6\].
@@ -33,6 +33,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 \* indicates equal contributions, \# indicates corresponding author.
 
 ## 2023
+- \[8\] Edge-cloud Collaborative Learning with Federated and Centralized Features  
+  **Zexi Li\***, Qunwei Li\*, Yi Zhou, Wenliang Zhong\#, Guannan Zhang, and Chao Wu\#  
+  _SIGIR 2023_. (CCF A, Top Conference in Data mining and information retrieval) \[paper coming soon\]
 - \[7\] No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier  
   **Zexi Li**, Xinyi Shang, Rui He, Tao Lin\#, and Chao Wu\#  
   _preprint._ \[[paper](https://arxiv.org/abs/2303.10058)\]
@@ -42,9 +45,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - \[5\] Learning Cautiously in Federated Learning with Noisy and Heterogeneous Clients  
   Chenrui Wu\*, **Zexi Li**\*, Fangxin Wang\#, and Chao Wu\#  
   _ICME 2023_. (CCF B, Top Conference in Multimedia) \[paper coming soon\]
-<!-- - \[6\] Edge-cloud Collaborative Learning with Federated and Centralized Features  
-  **Zexi Li\***, Qunwei Li\*, Yi Zhou, Wenliang Zhong\#, Guannan Zhang, and Chao Wu\#  
-  _preprint._ \[[paper]()\] -->
 
   
 ## 2022
