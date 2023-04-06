@@ -35,7 +35,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## 2023
 - \[8\] Edge-cloud Collaborative Learning with Federated and Centralized Features  
   **Zexi Li\***, Qunwei Li\*, Yi Zhou, Wenliang Zhong\#, Guannan Zhang, and Chao Wu\#  
-  _SIGIR 2023_. (CCF A, Top Conference in Data mining and information retrieval) \[paper coming soon\]
+  _**SIGIR 2023**_. (CCF A, Top Conference in Data mining and information retrieval) \[paper coming soon\]
 - \[7\] No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier  
   **Zexi Li**, Xinyi Shang, Rui He, Tao Lin\#, and Chao Wu\#  
   _preprint._ \[[paper](https://arxiv.org/abs/2303.10058)\]
@@ -44,22 +44,22 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _preprint._ \[[paper](https://arxiv.org/abs/2302.10911)\]
 - \[5\] Learning Cautiously in Federated Learning with Noisy and Heterogeneous Clients  
   Chenrui Wu\*, **Zexi Li**\*, Fangxin Wang\#, and Chao Wu\#  
-  _ICME 2023_. (CCF B, Top Conference in Multimedia) \[paper coming soon\]
+  _**ICME 2023**_. (CCF B, Top Conference in Multimedia) \[paper coming soon\]
 
   
 ## 2022
 - \[4\] Towards Effective Clustered Federated Learning: A Peer-to-peer Framework with Adaptive Neighbor Matching  
   **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang\#, and Chao Wu\#   
-  - Long version in _IEEE Transactions on Big Data_. (Q1, JCR 1, IF: 4.271) \[[paper](https://www.computer.org/csdl/journal/bd/5555/01/09954190/1Inoq0EldXG)\]\[[arxiv](https://arxiv.org/pdf/2203.12285.pdf)\] (final version to appear)   
-  - Short version in _MLSys2022 Workshop_. \[[poster](https://crossfl2022.github.io/abstracts/Abstract4.pdf)\]
+  - Long version in _**IEEE Transactions on Big Data**_. (Q1, JCR 1, IF: 4.271) \[[paper](https://www.computer.org/csdl/journal/bd/5555/01/09954190/1Inoq0EldXG)\]\[[arxiv](https://arxiv.org/pdf/2203.12285.pdf)\] (final version to appear)   
+  - Short version in _**MLSys2022 Workshop**_. \[[poster](https://crossfl2022.github.io/abstracts/Abstract4.pdf)\]
 - \[3\] Can We Share Models If Sharing Data Is Not an Option?  
   **Zexi Li**, Feng Mao\#, and Chao Wu\#  
-  _Patterns, Cell Press._ \[[paper](https://www.cell.com/patterns/fulltext/S2666-3899(22)00228-8#%20)\]
+  _**Patterns, Cell Press**._ \[[paper](https://www.cell.com/patterns/fulltext/S2666-3899(22)00228-8#%20)\]
   
 ## 2021
 - \[2\] Boosting the generalization ability of Vis-NIR-spectroscopy-based regression models through dimension reduction and transfer learning  
   Xiaoli Li\*, **Zexi Li**\*, Xufeng Yang, and Yong He\#  
-  _Computers and Electronics in Agriculture_. (Q1, JCR 1, CAS Top, IF: 6.757) \[[paper](https://www.sciencedirect.com/science/article/pii/S0168169921001757)\] 
+  _**Computers and Electronics in Agriculture**_. (Q1, JCR 1, CAS Top, IF: 6.757) \[[paper](https://www.sciencedirect.com/science/article/pii/S0168169921001757)\] 
 - \[1\] An early assessment of the County Medical Community reform in China: a case study of Zhejiang province  
   Chao Wu, Yixin Tu, **Zexi Li**, Jianxing Yu\#  
-  _Journal of Chinese Governance_. (SSCI, Q2, IF:2.915) \[[paper](https://www.tandfonline.com/doi/abs/10.1080/23812346.2021.1978722)\]
+  _**Journal of Chinese Governance**_. (SSCI, Q2, IF:2.915) \[[paper](https://www.tandfonline.com/doi/abs/10.1080/23812346.2021.1978722)\]
