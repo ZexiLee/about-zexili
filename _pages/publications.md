@@ -35,7 +35,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## 2023
 - \[8\] Edge-cloud Collaborative Learning with Federated and Centralized Features  
   **Zexi Li\***, Qunwei Li\*, Yi Zhou, Wenliang Zhong\#, Guannan Zhang, and Chao Wu\#  
-  _**ACM SIGIR 2023**_. (CCF A, Top Conference in Data mining and information retrieval) \[paper coming soon\]
+  _**ACM SIGIR 2023**_. (CCF A, Top Conference in Data mining and information retrieval) \[[paper](https://arxiv.org/abs/2304.05871)\]
 - \[7\] No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier  
   **Zexi Li**, Xinyi Shang, Rui He, Tao Lin\#, and Chao Wu\#  
   _preprint._ \[[paper](https://arxiv.org/abs/2303.10058)\]
