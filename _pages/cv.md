@@ -28,10 +28,10 @@ Work Experience
   * _Big Data Institute_
   * Researches: multi-agent social stimulation and federated learning.
  
-* 2021.7-2021.9: Research Intern
+<!-- * 2021.7-2021.9: Research Intern
   * Huawei
   * _Noah's Ark Lab_
-  * Researches: clustered federated learning and peer-to-peer federated learning.
+  * Researches: clustered federated learning and peer-to-peer federated learning. -->
 
 Selected Honors
 ======
