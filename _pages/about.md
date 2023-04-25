@@ -24,6 +24,7 @@ Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com
   * Understanding training dynamics and generalization of deep neural networks.
 
 ## Recent News
+* **\[2023.04\]** Our paper ["Revisiting Weighted Aggregation in Federated Learning with Neural Networks"](https://arxiv.org/abs/2302.10911) is accepted by _The Fortieth International Conference on Machine Learning (**ICML 2023**)_! Many thanks to my coauthors!
 * **\[2023.04\]** Our paper "Edge-cloud Collaborative Learning with Federated and Centralized Features" is accepted by _The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**)_! Thanks a lot to Ant Group's coauthors!
 * **\[2023.03\]** Our paper "Learning Cautiously in Federated Learning with Noisy and Heterogeneous Clients" is accepted by _IEEE International Conference on Multimedia and Expo 2023 (**ICME 2023**)_! Congratulations to me and Chenrui!
 * **\[2023.03\]** I have joined the **BEST-MBA** (**B**usiness, **E**ngineering, **S**cience, and **T**echnology based **MBA** for on-campus postgradutes) program of _School of Management, Zhejiang University_.
