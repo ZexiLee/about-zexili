@@ -10,11 +10,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Research Outlines
 * **Collaborative and Distributed Machine Learning**
   * Federated deep Learning.
-    * *Generalization*: improving generalization and gaining insights in training dynamics \[6\].
-    * *Personalization*: general personalization \[7\] and personalization under clustered heterogeneity \[4\].
-    * *Robustness*: joint problem of noisy labels and non-IID data \[5\].
+    * *Generalization*: improving generalization and gaining insights in training dynamics \[8\].
+    * *Personalization*: general personalization \[5\] and personalization under clustered heterogeneity \[4\].
+    * *Robustness*: joint problem of noisy labels and non-IID data \[6\].
   * Edge-cloud collaborative & domain-transferred machine learning.
-    *  *Edge-cloud collaboration in recommender systems* \[8\].
+    *  *Edge-cloud collaboration in recommender systems* \[7\].
     *  *Transfer learning of regression models* \[2\].
   * Socio-technical issues brought by big data and machine learning.
     *  *Data collaboration and open science* \[3\].
@@ -23,9 +23,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 * **Trustworthy and Generalized Deep Learning**
   * Collaborative, privacy-preserving, robust, fair, and secure deep learning.
     * *Federated learning*: collaborative and privacy-preserving deep learning \[2, 4, 5, 6, 7, 8\].
-    * *Robustness*: noisy labels \[5\].
+    * *Robustness*: noisy labels \[6\].
   * Training dynamics and generalization of deep neural networks.
-    * *Weight decay reguralization* \[6\].
+    * *Weight decay reguralization* \[8\].
 <!--     * *Linear mode connectivity and permutation invariance*. -->
 
 --------
@@ -33,19 +33,18 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 \* indicates equal contributions, \# indicates corresponding author.
 
 ## 2023
-- \[8\] Edge-cloud Collaborative Learning with Federated and Centralized Features  
-  **Zexi Li\***, Qunwei Li\*, Yi Zhou, Wenliang Zhong\#, Guannan Zhang, and Chao Wu\#  
-  _**ACM SIGIR 2023**_. (CCF A, Top Conference in Data mining and information retrieval) \[[paper](https://arxiv.org/abs/2304.05871)\]
-- \[7\] No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier  
-  **Zexi Li**, Xinyi Shang, Rui He, Tao Lin\#, and Chao Wu\#  
-  _preprint._ \[[paper](https://arxiv.org/abs/2303.10058)\]
-- \[6\] Revisiting Weighted Aggregation in Federated Learning with Neural Networks  
+- \[8\] Revisiting Weighted Aggregation in Federated Learning with Neural Networks  
   **Zexi Li**, Tao Lin\#, Xinyi Shang, and Chao Wu\#  
-  _preprint._ \[[paper](https://arxiv.org/abs/2302.10911)\]
-- \[5\] Learning Cautiously in Federated Learning with Noisy and Heterogeneous Clients  
+  _**ICML 2023**_. (CCF A, Top Conference in Machine Learning) \[[paper](https://arxiv.org/abs/2302.10911)\]
+- \[7\] Edge-cloud Collaborative Learning with Federated and Centralized Features  
+  **Zexi Li\***, Qunwei Li\*, Yi Zhou, Wenliang Zhong\#, Guannan Zhang, and Chao Wu\#  
+  _**ACM SIGIR 2023**_. (CCF A, Top Conference in Data Mining and Information Retrieval) \[[paper](https://arxiv.org/abs/2304.05871)\]
+- \[6\] Learning Cautiously in Federated Learning with Noisy and Heterogeneous Clients  
   Chenrui Wu\*, **Zexi Li**\*, Fangxin Wang\#, and Chao Wu\#  
   _**IEEE ICME 2023**_. (CCF B, Top Conference in Multimedia) \[[paper](https://arxiv.org/abs/2304.02892)\]
-
+- \[5\] No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier  
+  **Zexi Li**, Xinyi Shang, Rui He, Tao Lin\#, and Chao Wu\#  
+  _preprint._ \[[paper](https://arxiv.org/abs/2303.10058)\]
   
 ## 2022
 - \[4\] Towards Effective Clustered Federated Learning: A Peer-to-peer Framework with Adaptive Neighbor Matching  
