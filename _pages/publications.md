@@ -35,13 +35,13 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## 2023
 - \[8\] Revisiting Weighted Aggregation in Federated Learning with Neural Networks  
   **Zexi Li**, Tao Lin\#, Xinyi Shang, and Chao Wu\#  
-  _**ICML 2023**_. (CCF A, Top Conference in Machine Learning) \[[paper](https://arxiv.org/abs/2302.10911)\]
+  _**International Conference on Machine Learning (ICML) 2023**_. (CCF A, Top Conference in Machine Learning) \[[paper](https://arxiv.org/abs/2302.10911)\]
 - \[7\] Edge-cloud Collaborative Learning with Federated and Centralized Features  
   **Zexi Li\***, Qunwei Li\*, Yi Zhou, Wenliang Zhong\#, Guannan Zhang, and Chao Wu\#  
-  _**ACM SIGIR 2023**_. (CCF A, Top Conference in Data Mining and Information Retrieval) \[[paper](https://arxiv.org/abs/2304.05871)\]
+  _**International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2023**_. (CCF A, Top Conference in Data Mining and Information Retrieval) \[[paper](https://arxiv.org/abs/2304.05871)\]
 - \[6\] Learning Cautiously in Federated Learning with Noisy and Heterogeneous Clients  
   Chenrui Wu\*, **Zexi Li**\*, Fangxin Wang\#, and Chao Wu\#  
-  _**IEEE ICME 2023**_. (CCF B, Top Conference in Multimedia) \[[paper](https://arxiv.org/abs/2304.02892)\]
+  _**IEEE International Conference on Multimedia and Expo (ICME) 2023**_. (CCF B, Top Conference in Multimedia) \[[paper](https://arxiv.org/abs/2304.02892)\]
 - \[5\] No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier  
   **Zexi Li**, Xinyi Shang, Rui He, Tao Lin\#, and Chao Wu\#  
   _preprint._ \[[paper](https://arxiv.org/abs/2303.10058)\]
