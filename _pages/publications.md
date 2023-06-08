@@ -41,7 +41,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
   _**International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2023**_. (CCF A, Top Conference in Data Mining and Information Retrieval) \[[paper](https://arxiv.org/abs/2304.05871)\]
 - \[6\] Learning Cautiously in Federated Learning with Noisy and Heterogeneous Clients  
   Chenrui Wu\*, **Zexi Li**\*, Fangxin Wang\#, and Chao Wu\#  
-  _**IEEE International Conference on Multimedia and Expo (ICME) 2023**_. (CCF B, Top Conference in Multimedia) \[[paper](https://arxiv.org/abs/2304.02892)\]
+  _**(Oral) IEEE International Conference on Multimedia and Expo (ICME) 2023**_. (CCF B, Top Conference in Multimedia) \[[paper](https://arxiv.org/abs/2304.02892)\]
 - \[5\] No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier  
   **Zexi Li**, Xinyi Shang, Rui He, Tao Lin\#, and Chao Wu\#  
   _preprint._ \[[paper](https://arxiv.org/abs/2303.10058)\]
