@@ -27,13 +27,16 @@ Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com
 - [**ICML 2023**] [Revisiting Weighted Aggregation in Federated Learning with Neural Networks](https://arxiv.org/abs/2302.10911)  
   **Zexi Li**, Tao Lin\#, Xinyi Shang, and Chao Wu\#  
 - [**Patterns, Cell Press**] [Can We Share Models If Sharing Data Is Not an Option?](https://www.cell.com/patterns/fulltext/S2666-3899(22)00228-8#%20)  
-  **Zexi Li**, Feng Mao\#, and Chao Wu\#  
+  **Zexi Li**, Feng Mao\#, and Chao Wu\#
+- [**ICCV 2023**] [No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier](https://arxiv.org/abs/2303.10058)  
+  **Zexi Li**, Xinyi Shang, Rui He, Tao Lin\#, and Chao Wu\#  
 - [**ACM SIGIR 2023**] [Edge-cloud Collaborative Learning with Federated and Centralized Features](https://arxiv.org/abs/2304.05871)  
   **Zexi Li\***, Qunwei Li\*, Yi Zhou, Wenliang Zhong\#, Guannan Zhang, and Chao Wu\#  
 - [**IEEE Transactions on Big Data**] [Towards Effective Clustered Federated Learning: A Peer-to-peer Framework with Adaptive Neighbor Matching](https://arxiv.org/pdf/2203.12285.pdf)  
   **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang\#, and Chao Wu\#  
 
 ## Recent News
+* **\[2023.07\]** Two papers are accepted by _International Conference on Computer Vision (**ICCV 2023**)_! One is about federated learning and the other is about domain adaptation. Many thanks to my coauthors!
 * **\[2023.06\]** We will have an oral presentation of our paper [FedCNI](https://arxiv.org/abs/2304.02892) at **ICME 2023** on July 11th.
 * **\[2023.04\]** Our paper ["Revisiting Weighted Aggregation in Federated Learning with Neural Networks"](https://arxiv.org/abs/2302.10911) is accepted by _The Fortieth International Conference on Machine Learning (**ICML 2023**)_! Many thanks to my coauthors!
 * **\[2023.04\]** Our paper "Edge-cloud Collaborative Learning with Federated and Centralized Features" is accepted by _The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**)_! Thanks a lot to Ant Group's coauthors!
