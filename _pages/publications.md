@@ -36,19 +36,19 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## 2023
 - \[9\] Revisiting Weighted Aggregation in Federated Learning with Neural Networks  
   **Zexi Li**, Tao Lin\#, Xinyi Shang, and Chao Wu\#  
-  _**International Conference on Machine Learning (ICML) 2023**_. (CCF A, Top Conference in Machine Learning) \[[paper](https://arxiv.org/abs/2302.10911)\]
+  _**International Conference on Machine Learning (ICML) 2023**_. (CCF A, Top Conference in Machine Learning) \[[paper](https://proceedings.mlr.press/v202/li23s.html)\]\[[github](https://github.com/ZexiLee/ICML-2023-FedLAW)\]\[[arxiv](https://arxiv.org/abs/2302.10911)\]
 - \[8\] No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier  
   **Zexi Li**, Xinyi Shang, Rui He, Tao Lin\#, and Chao Wu\#  
-  _**International Conference on Computer Vision (ICCV) 2023**_. \[[paper](https://arxiv.org/abs/2303.10058)\]
+  _**International Conference on Computer Vision (ICCV) 2023**_. (CCF A, Top Conference in Computer Vision) \[[arxiv](https://arxiv.org/abs/2303.10058)\]
 - \[7\] Universal Domain Adaptation via Compressive Attention Matching  
-  Didi Zhu\*, Yinchuan Li\*, Junkun Yuan, **Zexi Li**, Kun Kuang\#, Chao Wu\#
-  _**International Conference on Computer Vision (ICCV) 2023**_.
+  Didi Zhu\*, Yinchuan Li\*, Junkun Yuan, **Zexi Li**, Kun Kuang\#, Chao Wu\#  
+  _**International Conference on Computer Vision (ICCV) 2023**_. (CCF A, Top Conference in Computer Vision)
 - \[6\] Edge-cloud Collaborative Learning with Federated and Centralized Features  
   **Zexi Li\***, Qunwei Li\*, Yi Zhou, Wenliang Zhong\#, Guannan Zhang, and Chao Wu\#  
-  _**International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2023**_. (CCF A, Top Conference in Data Mining and Information Retrieval) \[[paper](https://arxiv.org/abs/2304.05871)\]
+  _**International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2023**_. (CCF A, Top Conference in Data Mining and Information Retrieval) \[[paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591976)\]\[[arxiv](https://arxiv.org/abs/2304.05871)\]
 - \[5\] Learning Cautiously in Federated Learning with Noisy and Heterogeneous Clients  
   Chenrui Wu\*, **Zexi Li**\*, Fangxin Wang\#, and Chao Wu\#  
-  _**(Oral) IEEE International Conference on Multimedia and Expo (ICME) 2023**_. (CCF B, Top Conference in Multimedia) \[[paper](https://arxiv.org/abs/2304.02892)\]
+  _**(Oral) IEEE International Conference on Multimedia and Expo (ICME) 2023**_. (CCF B, Top Conference in Multimedia) \[[arxiv](https://arxiv.org/abs/2304.02892)\]
   
 ## 2022
 - \[4\] Towards Effective Clustered Federated Learning: A Peer-to-peer Framework with Adaptive Neighbor Matching  
