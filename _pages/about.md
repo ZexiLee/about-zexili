@@ -8,20 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am now pursuing my Ph.D. career in *Artificial Intelligence* in College of Computer Science and Technology, *Zhejiang University*, China, supervised by Prof. [Chao Wu](https://wuchaozju.github.io/). Before that, I received my bachelor degree in *Engineering* from Zhejiang University (ZJU); meanwhile, I obtained an *honorary undergraduate degree* from Chu Kochen Honors College of ZJU. My main research interests lie in **Collaborative and Distributed Machine Learning** and **Trustworthy and Generalized Deep Learning**.
+I am now pursuing my Ph.D. career in *Artificial Intelligence* at the College of Computer Science and Technology, *Zhejiang University*, China, supervised by Prof. [Chao Wu](https://wuchaozju.github.io/). Before that, I received my bachelor's degree in *Engineering* from Zhejiang University (ZJU); meanwhile, I obtained an *honorary undergraduate degree* from Chu Kochen Honors College of ZJU. My main research interests lie in **Collaborative and Trustworthy Machine Learning** and **Understanding Deep Learning Mechanisms**. I am honored to work with Prof. [Tao Lin](https://lins-lab.github.io/) at Westlake University|EPFL.
 
 ## Contact
 Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com
 
 ## Research Interests
-* **Collaborative and Distributed Machine Learning**
-  * Federated deep Learning: algorithm design in terms of *generalization*, *personalization*, *robustness*, and *efficiency* & *training dynamics* understanding.
-  * Edge-cloud collaborative & domain-transferred machine learning: *real-world applications*.
-  * Socio-technical issues brought by *big data* and *machine learning*.
+* **Collaborative and Trustworthy Machine Learning**
+  * *__Federated deep Learning__*: algorithm design in terms of *generalization*, *personalization*, *robustness*, and *efficiency* & *training dynamics* understanding.
+  * *__Edge-cloud collaborative__* & *domain-transferred* machine learning: *real-world applications*.
+  * *__Trustworthy__* perspectives of machine learning: *privacy, robustness, fairness, reliability, and interpretability*.
+  * *__Socio-technical issues__* brought by *big data* and *machine learning*.
 
-* **Trustworthy and Generalized Deep Learning**
-  * Collaborative, privacy-preserving, robust, fair, and secure deep learning.
-  * Understanding training dynamics and generalization of deep neural networks.
+* **Understanding Deep Learning Mechanisms**
+  * *__Model fusion__* and *__linear mode connectivity__*.
+  * *__Generalization__*: initialization, weight decay regularization, federated training, etc.
+  * *__Deep learning phenomena__*: neural collapse, grokking, neural scaling law, etc.
+  * Understanding and improving *__LLMs__*.
 
 ## Selected Publications
 - [**ICML 2023**] [Revisiting Weighted Aggregation in Federated Learning with Neural Networks](https://arxiv.org/abs/2302.10911)  
@@ -50,5 +53,6 @@ Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com
 * **\[2022.09\]** Our new perspective paper "Can we share models if sharing data is not an option?" is accepted by _Patterns, Cell Press_. _Patterns_ is a child-journal about _data science_ of Cell Press, and it will have a first strong impact factor in 2023.
 
 ## Academic Service
-* Invited Reviewers: TKDE.
-* Help for Review: ICLR2023, KDD2023, NeurIPS2022, AAAI2022.
+* Invited Reviewers: TKDE, AISTATS 2024.
+
+<!-- Help for Review: ICLR2023, KDD2023, NeurIPS2022, AAAI2022. -->
