@@ -27,13 +27,13 @@ Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com
   * Understanding and improving *__LLMs__*.
 
 ## Selected Publications
-- [**ICML 2023**] [Revisiting Weighted Aggregation in Federated Learning with Neural Networks](https://arxiv.org/abs/2302.10911)  
+- [**ICML 2023**] [Revisiting Weighted Aggregation in Federated Learning with Neural Networks](https://proceedings.mlr.press/v202/li23s.html)  
   **Zexi Li**, Tao Lin\#, Xinyi Shang, and Chao Wu\#  
 - [**Patterns, Cell Press**] [Can We Share Models If Sharing Data Is Not an Option?](https://www.cell.com/patterns/fulltext/S2666-3899(22)00228-8#%20)  
   **Zexi Li**, Feng Mao\#, and Chao Wu\#
 - [**ICCV 2023**] [No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier](https://arxiv.org/abs/2303.10058)  
   **Zexi Li**, Xinyi Shang, Rui He, Tao Lin\#, and Chao Wu\#  
-- [**ACM SIGIR 2023**] [Edge-cloud Collaborative Learning with Federated and Centralized Features](https://arxiv.org/abs/2304.05871)  
+- [**ACM SIGIR 2023**] [Edge-cloud Collaborative Learning with Federated and Centralized Features](https://dl.acm.org/doi/abs/10.1145/3539618.3591976)  
   **Zexi Li\***, Qunwei Li\*, Yi Zhou, Wenliang Zhong\#, Guannan Zhang, and Chao Wu\#  
 - [**IEEE Transactions on Big Data**] [Towards Effective Clustered Federated Learning: A Peer-to-peer Framework with Adaptive Neighbor Matching](https://arxiv.org/pdf/2203.12285.pdf)  
   **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang\#, and Chao Wu\#  
