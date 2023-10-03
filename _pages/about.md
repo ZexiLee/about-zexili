@@ -31,7 +31,7 @@ Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com
   **Zexi Li**, Tao Lin\#, Xinyi Shang, and Chao Wu\#  
 - [**Patterns, Cell Press**] [Can We Share Models If Sharing Data Is Not an Option?](https://www.cell.com/patterns/fulltext/S2666-3899(22)00228-8#%20)  
   **Zexi Li**, Feng Mao\#, and Chao Wu\#
-- [**ICCV 2023**] [No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier](https://arxiv.org/abs/2303.10058)  
+- [**ICCV 2023**] [No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_No_Fear_of_Classifier_Biases_Neural_Collapse_Inspired_Federated_Learning_ICCV_2023_paper.pdf)  
   **Zexi Li**, Xinyi Shang, Rui He, Tao Lin\#, and Chao Wu\#  
 - [**ACM SIGIR 2023**] [Edge-cloud Collaborative Learning with Federated and Centralized Features](https://dl.acm.org/doi/abs/10.1145/3539618.3591976)  
   **Zexi Li\***, Qunwei Li\*, Yi Zhou, Wenliang Zhong\#, Guannan Zhang, and Chao Wu\#  
