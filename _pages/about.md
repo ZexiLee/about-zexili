@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am now pursuing my Ph.D. career in *Artificial Intelligence* at the College of Computer Science and Technology, *Zhejiang University*, China, supervised by Prof. [Chao Wu](https://wuchaozju.github.io/). Before that, I received my bachelor's degree in *Engineering* from Zhejiang University (ZJU); meanwhile, I obtained an *honorary undergraduate degree* from Chu Kochen Honors College of ZJU. My main research interests lie in **Collaborative and Trustworthy Machine Learning** and **Understanding Deep Learning Mechanisms**. I am honored to work with Prof. [Tao Lin](https://lins-lab.github.io/) at Westlake University/EPFL.
+I am now pursuing my Ph.D. career in *Artificial Intelligence* at the College of Computer Science and Technology, *Zhejiang University*, China, supervised by Prof. [Chao Wu](https://wuchaozju.github.io/). Before that, I received my bachelor's degree in *Engineering* from Zhejiang University (ZJU); meanwhile, I obtained an *honorary undergraduate degree* from Chu Kochen Honors College of ZJU. My main research interests lie in **Knowledge Transfer and Collaborative Learning** and **Training Dynamics and Mechanism of Deep Learning**. I am honored to work with Prof. [Tao Lin](https://lins-lab.github.io/) at Westlake University/EPFL.
 
 ## Contact
 Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com
 
 ## Research Interests
-* **Collaborative and Trustworthy Machine Learning**
+* **Knowledge Transfer and Collaborative Learning**
   * *__Federated deep Learning__*: algorithm design in terms of *generalization*, *personalization*, *robustness*, and *efficiency* & *training dynamics* understanding.
   * *__Edge-cloud collaborative__* & *domain-transferred* machine learning: *real-world applications*.
   * *__Trustworthy__* perspectives of machine learning: *privacy, robustness, fairness, reliability, and interpretability*.
   * *__Socio-technical issues__* brought by *big data* and *machine learning*.
 
-* **Understanding Deep Learning Mechanisms**
+* **Training Dynamics and Mechanism of Deep Learning**
   * *__Model fusion__* and *__linear mode connectivity__*.
   * *__Generalization__*: initialization, weight decay regularization, federated training, etc.
   * *__Deep learning phenomena__*: neural collapse, grokking, neural scaling law, etc.
