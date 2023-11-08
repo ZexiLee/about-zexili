@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=6lMg5eoAAAAJ)
 
 ## Research Outlines
-* **Collaborative and Trustworthy Machine Learning**
+* **Knowledge Transfer and Collaborative Learning**
   * Federated deep Learning.
     * *Generalization*: improving generalization and gaining insights in training dynamics \[9\].
     * *Personalization*: general personalization \[8\] and personalization under clustered heterogeneity \[4\].
@@ -17,14 +17,11 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
     *  *Edge-cloud collaboration in recommender systems* \[6\].
     *  *Transfer learning of regression models* \[2\].
     *  *Domain adaptation* \[7\].
-  * Trust-worthy machine learning.
-    * *Collaborative and privacy-preserving* deep learning \[2, 4, 5, 6, 8, 9\].
-    * *Robustness*: noisy labels \[5\].
   * Socio-technical issues brought by big data and machine learning.
     *  *Data collaboration and open science* \[3\].
     *  *Big data driven medical reform studies* \[1\].
 
-* **Understanding Deep Learning Mechanisms**
+* **Training Dynamics and Mechanism of Deep Learning**
   * *Model fusion* and *linear mode connectivity*.
   * *Generalization*:
     * initialization, weight decay regularization \[9\], federated training \[8, 9\], etc.
