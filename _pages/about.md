@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am now pursuing my Ph.D. career in *Artificial Intelligence* at the College of Computer Science and Technology, *Zhejiang University*, China, supervised by Prof. [Chao Wu](https://wuchaozju.github.io/). Before that, I received my bachelor's degree in *Engineering* from Zhejiang University (ZJU); meanwhile, I obtained an *honorary undergraduate degree* from Chu Kochen Honors College of ZJU. My main research interests lie in **Knowledge Transfer and Collaborative Learning** and **Training Dynamics and Mechanism of Deep Learning**. I am honored to work with Prof. [Tao Lin](https://lins-lab.github.io/) at Westlake University/EPFL. I was a research intern at Ant Group and Zhejiang Lab.
+I am now pursuing my Ph.D. career in *Artificial Intelligence* at the College of Computer Science and Technology, *Zhejiang University*, China. <!-- , supervised by Prof. [Chao Wu](https://wuchaozju.github.io/).  --> Before that, I received my bachelor's degree in *Engineering* from Zhejiang University (ZJU); meanwhile, I obtained an *honorary undergraduate degree* from Chu Kochen Honors College of ZJU. My main research interests lie in **Knowledge Transfer & Collaborative Learning** and **Training Dynamics & Mechanism of Deep Learning**.
+<!-- I am honored to work with Prof. [Tao Lin](https://lins-lab.github.io/) at Westlake University/EPFL. I was a research intern at Ant Group and Zhejiang Lab. -->
 
 ## Contact
 Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com
