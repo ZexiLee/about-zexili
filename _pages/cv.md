@@ -14,7 +14,7 @@ Education
 * Ph.D. in Artificial Intelligence, Zhejiang University, 2025 (expected)
 * BEST-MBA Program, Zhejiang University (undergoing)
 * B.S. in Engineering, Zhejiang University, 2020
-* minor in Undergraduate of Pulic Administration (UPA), Chu Kochen Honors College, Zhejiang University, 2020
+* Minor in Undergraduate of Public Administration (UPA), Chu Kochen Honors College, Zhejiang University, 2020
 
 Work Experience
 ======
@@ -35,7 +35,9 @@ Work Experience
 
 Selected Honors
 ======
-* Outstanding Postgraduate Students of ZJU, 2021-2022.
+* Guoqiang Scholarship of Zhejiang University, 2022-2023 (Top 0.5%).
+* First Prize of Chunxiao Scholarship of BEST-MBA, 2023 (Top 3%).
+* Outstanding Postgraduate Students of ZJU, 2021-2023.
 * Outstanding Undergraduate Dissertation of the Major, 2020 summer.
 * First Prize of Jiechang Innovation Driven Scholarship of ZJU, 2018-2019.
 * Yao Yusu & He Jianyun Scholarship of ZJU, 2017-2019.
@@ -46,5 +48,5 @@ Selected Honors
 
 Others
 ======
-* I was delighted to join the *Elite Student Summer Camp of Hongkong University of Science and Technology* in 2018 Summer.
-* I was enthusiastic in *Media and Communication* (especially photography and video making) when I was an undergraduate student, and I was grateful to work in the Broadcasting & Television Station of Zhejiang University (ZJUBTV) from 2016 to 2019. During the period, I was the *Director of Network Communications Center of ZJUBTV and the Student Deputy Director of ZJUBTV*, from 2018 to 2019. I was so glad to produce some interesting videos about ZJU, and one of them is "[From Now On](https://www.youtube.com/watch?v=tR443a5dTbI)", a Welcome Video of Zhejiang University in 2018. Even now, you can see my videos on the screens of the campus, especially the one about the sculptures of Zijingang Campus, often shown on the screen near the school dining hall. :)
+* I was delighted to join the *Elite Student Summer Camp of Hong Kong University of Science and Technology* in the 2018 Summer.
+* I was enthusiastic about *Media and Communication* (especially photography and video making) when I was an undergraduate student, and I was grateful to work at the Broadcasting & Television Station of Zhejiang University (ZJUBTV) from 2016 to 2019. During this period, I was the *Director of the Network Communications Center of ZJUBTV and the Student Deputy Director of ZJUBTV*, from 2018 to 2019. I was so glad to produce some interesting videos about ZJU, and one of them is "[From Now On](https://www.youtube.com/watch?v=tR443a5dTbI)", a Welcome Video of Zhejiang University in 2018. Even now, you can see my videos on the screens of the campus, especially the one about the sculptures of the Zijingang Campus, often shown on the screen near the school dining hall. :)
