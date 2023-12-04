@@ -11,7 +11,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 * **Knowledge Transfer and Collaborative Learning**
   * Federated deep Learning.
     * *Generalization*: improving generalization and gaining insights in training dynamics \[9\].
-    * *Personalization*: general personalization \[8\] and personalization under clustered heterogeneity \[4\].
+    * *Personalization*: general personalization \[8\], personalization under clustered heterogeneity \[4\], personalization under feature skew \[11\].
     * *Robustness*: joint problem of noisy labels and non-IID data \[5\].
   * Edge-cloud collaborative & domain-transferred machine learning.
     *  *Edge-cloud collaboration in recommender systems* \[6\].
@@ -22,7 +22,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
     *  *Big data driven medical reform studies* \[1\].
 
 * **Training Dynamics and Mechanism of Deep Learning**
-  * *Model fusion* and *linear mode connectivity*.
+  * *Model fusion* and *linear mode connectivity* \[10\].
   * *Generalization*:
     * initialization, weight decay regularization \[9\], federated training \[8, 9\], etc.
   * *Deep learning phenomena*:
@@ -35,6 +35,22 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 \* indicates equal contributions, \# indicates corresponding author.
 
 ## 2023
+<!--  
+- \[14\] Neural Collapse Anchored Prompt Tuning for Generalizable Vision-Language Models  
+  Didi Zhu, **Zexi Li**, Min Zhang, Junkun Yuan, yunfeng shao, Yinchuan Li, Jiashuo Liu, Kun Kuang, Chao Wu\*  
+  _**preprint**_. 
+- \[13\] Towards Universal Personalization in Federated Learning via Collaborative Foundation Generative Models  
+  Chenrui Wu\*, **Zexi Li\***, Fangxin Wang, Hongyang Chen, Jiajun Bu, and Haishuai Wang\*  
+  _**preprint**_. 
+- \[12\] Unveiling Linear Mode Connectivity of Re-basin from Neuron Distribution Perspective  
+  Zhiqi Li\*, **Zexi Li\***, Mian Wu\*, Cheng Wan, and Chao Wu\#  
+  _**preprint**_.  -->
+- \[11\] FediOS: Decoupling Orthogonal Subspaces for Personalization in Feature-skew Federated Learning  
+  Lingzhi Gao\*, **Zexi Li\***, Yang Lu, and Chao Wu\#  
+  _**preprint**_. \[[arxiv](https://arxiv.org/pdf/2311.18559.pdf)\]
+- \[10\] Training-time Neuron Alignment for Improving Linear Mode Connectivity and Model Fusion  
+  **Zexi Li**, Zhiqi Li, Tao Shen, Tao Lin\#, and Chao Wu\#  
+  _**preprint**_. 
 - \[9\] Revisiting Weighted Aggregation in Federated Learning with Neural Networks  
   **Zexi Li**, Tao Lin\#, Xinyi Shang, and Chao Wu\#  
   _**International Conference on Machine Learning (ICML) 2023**_. (CCF A, Top Conference in Machine Learning) \[[paper](https://proceedings.mlr.press/v202/li23s.html)\]\[[github](https://github.com/ZexiLee/ICML-2023-FedLAW)\]\[[arxiv](https://arxiv.org/abs/2302.10911)\]
@@ -50,6 +66,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - \[5\] Learning Cautiously in Federated Learning with Noisy and Heterogeneous Clients  
   Chenrui Wu\*, **Zexi Li**\*, Fangxin Wang\#, and Chao Wu\#  
   _**(Oral) IEEE International Conference on Multimedia and Expo (ICME) 2023**_. (CCF B, Top Conference in Multimedia) \[[paper](https://www.computer.org/csdl/proceedings-article/icme/2023/689100a660/1PTNcsYjSRG)\]\[[arxiv](https://arxiv.org/abs/2304.02892)\]
+--
+
   
 ## 2022
 - \[4\] Towards Effective Clustered Federated Learning: A Peer-to-peer Framework with Adaptive Neighbor Matching  
