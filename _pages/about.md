@@ -23,7 +23,7 @@ Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com
   * *__Socio-technical issues__* brought by *big data* and *machine learning*.
 
 * **Mechanistic Understanding of Deep Learning**
-  * *__Behind Mechanisms of collaborative deep learning__*: *model fusion*, *permutation invariance*, and *linear mode connectivity*.
+  * *__Behind mechanisms of collaborative deep learning__*: *model fusion*, *permutation invariance*, and *linear mode connectivity*.
   * *__Generalization__*: initialization, weight decay regularization, federated training, etc.
   * *__Deep learning phenomena__*: neural collapse, grokking, neural scaling law, etc.
   * Understanding and improving *__LLMs__*.
