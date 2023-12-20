@@ -8,21 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am now pursuing my Ph.D. career in *Artificial Intelligence* at the College of Computer Science and Technology, *Zhejiang University*, China. <!-- , supervised by Prof. [Chao Wu](https://wuchaozju.github.io/).  --> Before that, I received my bachelor's degree in *Engineering* from Zhejiang University (ZJU); meanwhile, I obtained an *honorary undergraduate degree* from Chu Kochen Honors College of ZJU. My main research interests lie in **Knowledge Transfer & Collaborative Learning** and **Training Dynamics & Mechanism of Deep Learning**.
+I am now pursuing my Ph.D. career in *Artificial Intelligence* at the College of Computer Science and Technology, *Zhejiang University*, China. <!-- , supervised by Prof. [Chao Wu](https://wuchaozju.github.io/).  --> Before that, I received my bachelor's degree in *Engineering* from Zhejiang University (ZJU); meanwhile, I obtained an *honorary undergraduate degree* from Chu Kochen Honors College of ZJU. My main research interests lie in Trustworthy AI which specifically encompasses two areas: **Collaborative Deep Learning** and the behind **Mechanistic Understanding of Deep Learning**.
 <!-- I am honored to work with Prof. [Tao Lin](https://lins-lab.github.io/) at Westlake University/EPFL. I was a research intern at Ant Group and Zhejiang Lab. -->
 
 ## Contact
 Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com
 
 ## Research Interests
-* **Knowledge Transfer and Collaborative Learning**
+* **Collaborative Deep Learning**
+  * *__Collaborative foundation models__*: LLM agents collaborated with humans, the Web, and each other; collaborative finetuning foundation models (LLMs, diffusion models, etc.).
   * *__Federated deep Learning__*: algorithm design in terms of *generalization*, *personalization*, *robustness*, and *efficiency* & *training dynamics* understanding.
-  * *__Edge-cloud collaborative__* & *domain-transferred* machine learning: *real-world applications*.
+  * *__Edge-cloud collaborative__* & *domain-transferred* machine learning: *real-world applications under constrained resources* (efficiency, data availability, etc.).
   * *__Trustworthy__* perspectives of machine learning: *privacy, robustness, fairness, reliability, and interpretability*.
   * *__Socio-technical issues__* brought by *big data* and *machine learning*.
 
-* **Training Dynamics and Mechanism of Deep Learning**
-  * *__Model fusion__* and *__linear mode connectivity__*.
+* **Mechanistic Understanding of Deep Learning**
+  * *__Behind Mechanisms of collaborative deep learning__*: *model fusion*, *permutation invariance*, and *linear mode connectivity*.
   * *__Generalization__*: initialization, weight decay regularization, federated training, etc.
   * *__Deep learning phenomena__*: neural collapse, grokking, neural scaling law, etc.
   * Understanding and improving *__LLMs__*.
