@@ -36,6 +36,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## 2023
 <!--  
+- \[15\] Improving Group Connectivity for Generalization of Federated Deep Learning  
+  **Zexi Li\***, Jie Lin\*, Zhiqi Li\*, Didi Zhu, Chao Wu\*  
+  _**preprint**_. 
 - \[14\] Neural Collapse Anchored Prompt Tuning for Generalizable Vision-Language Models  
   Didi Zhu, **Zexi Li**, Min Zhang, Junkun Yuan, yunfeng shao, Yinchuan Li, Jiashuo Liu, Kun Kuang, Chao Wu\*  
   _**preprint**_. 
@@ -48,9 +51,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - \[11\] FediOS: Decoupling Orthogonal Subspaces for Personalization in Feature-skew Federated Learning  
   Lingzhi Gao\*, **Zexi Li\***, Yang Lu, and Chao Wu\#  
   _**preprint**_. \[[arxiv](https://arxiv.org/pdf/2311.18559.pdf)\]
-- \[10\] Training-time Neuron Alignment for Improving Linear Mode Connectivity and Model Fusion  
-  **Zexi Li**, Zhiqi Li, Tao Shen, Tao Lin\#, and Chao Wu\#  
-  _**preprint**_. 
+- \[10\] Training-time Neuron Alignment through Permutation Subspace for Improving Linear Mode Connectivity and Model Fusion  
+  **Zexi Li**, Zhiqi Li, Jie Lin, Tao Shen, Tao Lin\#, and Chao Wu\#  
+  _**preprint**_. \[[arxiv](https://arxiv.org/abs/2402.01342)\]
 - \[9\] Revisiting Weighted Aggregation in Federated Learning with Neural Networks  
   **Zexi Li**, Tao Lin\#, Xinyi Shang, and Chao Wu\#  
   _**International Conference on Machine Learning (ICML) 2023**_. (CCF A, Top Conference in Machine Learning) \[[paper](https://proceedings.mlr.press/v202/li23s.html)\]\[[github](https://github.com/ZexiLee/ICML-2023-FedLAW)\]\[[arxiv](https://arxiv.org/abs/2302.10911)\]
