@@ -56,6 +56,6 @@ Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com
 * **\[2022.09\]** Our new perspective paper "Can we share models if sharing data is not an option?" is accepted by _Patterns, Cell Press_. _Patterns_ is a child-journal about _data science_ of Cell Press, and it will have a first strong impact factor in 2023.
 
 ## Academic Service
-* Invited Reviewers: TKDE, AISTATS 2024, CVPR 2024.
+* Invited Reviewers: TKDE, AISTATS 2024, CVPR 2024, ICML 2024.
 
 <!-- Help for Review: ICLR2023, KDD2023, NeurIPS2022, AAAI2022. -->
