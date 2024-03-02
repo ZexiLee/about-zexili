@@ -10,7 +10,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 ## Research Outlines
 * **Knowledge Transfer and Collaborative Learning**
   * Federated deep Learning.
-    * *Generalization*: improving generalization and gaining insights in training dynamics \[9\].
+    * *Generalization*: improving generalization and gaining insights in training dynamics \[9, 14\].
     * *Personalization*: general personalization \[8\], personalization under clustered heterogeneity \[4\], personalization under feature skew \[11\].
     * *Robustness*: joint problem of noisy labels and non-IID data \[5\].
   * Edge-cloud collaborative & domain-transferred machine learning.
@@ -27,27 +27,32 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
     * initialization, weight decay regularization \[9\], federated training \[8, 9\], etc.
   * *Deep learning phenomena*:
     * neural collapse \[8\], grokking, neural scaling law, etc.
-  * Understanding and improving *LLMs*.
+  * Understanding and improving *foundation models* \[12, 13\].
  
     
 --------
 ## Publications
 \* indicates equal contributions, \# indicates corresponding author.
 
+## 2024
+- \[14\] Improving Group Connectivity for Generalization of Federated Deep Learning  
+  **Zexi Li\***, Jie Lin\*, Zhiqi Li\*, Didi Zhu, Chao Wu\#  
+  _**preprint**_. \[[arxiv](https://arxiv.org/pdf/2402.18949.pdf)\]
+- \[13\] Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models  
+  Didi Zhu, Zhongyi Sun, **Zexi Li**, Tao Shen, Ke Yan, Shouhong Ding, Kun Kuang, Chao Wu\#  
+  _**preprint**_. \[[arxiv](https://arxiv.org/pdf/2402.12048.pdf)\]
+
 ## 2023
 <!--  
-- \[15\] Improving Group Connectivity for Generalization of Federated Deep Learning  
-  **Zexi Li\***, Jie Lin\*, Zhiqi Li\*, Didi Zhu, Chao Wu\*  
-  _**preprint**_. 
-- \[14\] Neural Collapse Anchored Prompt Tuning for Generalizable Vision-Language Models  
-  Didi Zhu, **Zexi Li**, Min Zhang, Junkun Yuan, yunfeng shao, Yinchuan Li, Jiashuo Liu, Kun Kuang, Chao Wu\*  
-  _**preprint**_. 
 - \[13\] Towards Universal Personalization in Federated Learning via Collaborative Foundation Generative Models  
   Chenrui Wu\*, **Zexi Li\***, Fangxin Wang, Hongyang Chen, Jiajun Bu, and Haishuai Wang\*  
   _**preprint**_. 
 - \[12\] Unveiling Linear Mode Connectivity of Re-basin from Neuron Distribution Perspective  
   Zhiqi Li\*, **Zexi Li\***, Mian Wu\*, Cheng Wan, and Chao Wu\#  
   _**preprint**_.  -->
+- \[12\] Understanding Prompt Tuning for V-L Models Through the Lens of Neural Collapse  
+  Didi Zhu, **Zexi Li**, Min Zhang, Junkun Yuan, yunfeng shao, Yinchuan Li, Jiashuo Liu, Kun Kuang, Chao Wu\*  
+  _**preprint**_. \[[arxiv](https://arxiv.org/pdf/2306.15955.pdf)\]
 - \[11\] FediOS: Decoupling Orthogonal Subspaces for Personalization in Feature-skew Federated Learning  
   Lingzhi Gao\*, **Zexi Li\***, Yang Lu, and Chao Wu\#  
   _**preprint**_. \[[arxiv](https://arxiv.org/pdf/2311.18559.pdf)\]
