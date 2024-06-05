@@ -11,9 +11,9 @@
 # title_separator          : "-"
 # name                     : &name "Zexi Li 李則熹"
 # description              : &description "personal description"
-# # url                      : https://zexilee.github.io/about-zexili/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# url                      : https://zexilee.github.io/about-zexili/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
-# # repository               : "ZexiLee/about-zexili"
+# repository               : "ZexiLee/about-zexili"
 # teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs              : false # true, false (default)
 # words_per_minute         : 160
