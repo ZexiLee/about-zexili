@@ -12,9 +12,10 @@ redirect_from:
 Education
 ======
 * Ph.D. in Artificial Intelligence, Zhejiang University, 2025 (expected)
-* BEST-MBA Program, Zhejiang University (undergoing)
+* BEST-MBA Program, Zhejiang University, 2023
 * B.S. in Engineering, Zhejiang University, 2020
 * Minor in Undergraduate of Public Administration (UPA), Chu Kochen Honors College, Zhejiang University, 2020
+* Chengdu Foreign Language School (middle and high school), 2016
 
 Work Experience
 ======
