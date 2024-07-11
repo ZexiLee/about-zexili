@@ -8,39 +8,54 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=6lMg5eoAAAAJ)
 
 ## Research Outlines
-* **Knowledge Transfer and Collaborative Learning**
+My main research interests lie in *__i) optimization, generalization, and personalization of deep learning models__*, especially under *distributed/federated/collaborative* setups, which are generally empowered by deep learning phenomena and mechanistic interpretability;  *__ii) trustworthy model manipulation for foundation models__*: understanding and improving foundation models (e.g., large language model, vision transformer, and diffusion transformer) from the *__model parameter perspective__*, i.e., model *fusion, editing, pruning, stitching, growth, unlearning, and generation*.
+
+* **Optimization, Generalization, and Personalization of Deep Learning under Collaboration**
   * Federated deep Learning.
-    * *Generalization*: improving generalization and gaining insights in training dynamics \[9, 14\].
+    * *Generalization and optimization*: improving generalization and gaining insights in training dynamics \[9, 15\].
     * *Personalization*: general personalization \[8\], personalization under clustered heterogeneity \[4\], personalization under feature skew \[11\].
     * *Robustness*: joint problem of noisy labels and non-IID data \[5\].
+    * *Federated large language model* \[12, 15\].
   * Edge-cloud collaborative & domain-transferred machine learning.
     *  *Edge-cloud collaboration in recommender systems* \[6\].
     *  *Transfer learning of regression models* \[2\].
     *  *Domain adaptation* \[7\].
+  * Train-once-for-all personalization \[17\].
   * Socio-technical issues brought by big data and machine learning.
     *  *Data collaboration and open science* \[3\].
     *  *Big data driven medical reform studies* \[1\].
 
-* **Training Dynamics and Mechanism of Deep Learning**
+* **Model Manipulation for Foundation Models**
   * *Model fusion* and *linear mode connectivity* \[10\].
-  * *Generalization*:
-    * initialization, weight decay regularization \[9\], federated training \[8, 9\], etc.
-  * *Deep learning phenomena*:
-    * neural collapse \[8\], grokking, neural scaling law, etc.
-  * Understanding and improving *foundation models* \[12, 13\].
- 
+  * *Model editing* of large language models \[16\].
+  * *Model generation*: text-to-model generative diffusion transformer \[17\].
+  * *Model tailor*: mitigating catastrophic forgetting in multi-modal large language models \[14\].
+  * *Neural-collapse-inspired representation learning*: i) federated learning \[8\]; ii) prompt tuning for CLIP \[13\].
     
 --------
 ## Publications
 \* indicates equal contributions, \# indicates corresponding author.
 
 ## 2024
-- \[14\] Improving Group Connectivity for Generalization of Federated Deep Learning  
-  **Zexi Li\***, Jie Lin\*, Zhiqi Li\*, Didi Zhu, Chao Wu\#  
+- \[17\] Text-to-Model: Text-Conditioned Neural Network Diffusion for Train-Once-for-All Personalization  
+   **Zexi Li\***, Lingzhi Gao\*, Chao Wu\#  
+  _**preprint**_. \[[arxiv](https://arxiv.org/pdf/2405.14132)\]
+- \[16\] WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models  
+   Peng Wang\*, **Zexi Li\***, Ningyu Zhang\#, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen\#  
+  _**preprint**_. \[[arxiv](https://arxiv.org/pdf/2405.14768)\]
+- \[15\] Improving Group Connectivity for Generalization of Federated Deep Learning  
+  **Zexi Li\***, Jie Lin\*, Zhiqi Li\*, Didi Zhu, Tao Lin\#, Chao Wu\#  
   _**preprint**_. \[[arxiv](https://arxiv.org/pdf/2402.18949.pdf)\]
-- \[13\] Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models  
-  Didi Zhu, Zhongyi Sun, **Zexi Li**, Tao Shen, Ke Yan, Shouhong Ding, Kun Kuang, Chao Wu\#  
-  _**preprint**_. \[[arxiv](https://arxiv.org/pdf/2402.12048.pdf)\]
+- \[14\] Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models  
+  Didi Zhu, Zhongyi Sun, **Zexi Li**, Tao Shen, Ke Yan, Shouhong Ding, Kun Kuang\#, Chao Wu\#  
+  _**International Conference on Machine Learning (ICML) 2024**_. (CCF A, Top Conference in Machine Learning) \[[arxiv](https://arxiv.org/pdf/2402.12048.pdf)\]
+- \[13\] Neural Collapse Anchored Prompt Tuning for Generalizable Vision-Language Models  
+  Didi Zhu, **Zexi Li**, Min Zhang, Junkun Yuan, yunfeng shao, Yinchuan Li, Jiashuo Liu, Kun Kuang, Chao Wu\#  
+  _**ACM KDD 2024**_. (CCF A, Top Conference in Data Mining) \[[arxiv](https://arxiv.org/pdf/2306.15955.pdf)\]
+- \[12\] OpenFedLLM: Training Large Language Models on Decentralized Private Data via Federated Learning   
+  Rui Ye, Wenhao Wang, Jingyi Chai, Dihan Li, **Zexi Li**, Yinda Xu, Yaxin Du, Yanfeng Wang, Siheng Chen  
+  _**ACM KDD 2024**_. (CCF A, Top Conference in Data Mining) \[[arxiv](https://arxiv.org/pdf/2402.06954)\]
+
 
 ## 2023
 <!--  
@@ -50,9 +65,6 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 - \[12\] Unveiling Linear Mode Connectivity of Re-basin from Neuron Distribution Perspective  
   Zhiqi Li\*, **Zexi Li\***, Mian Wu\*, Cheng Wan, and Chao Wu\#  
   _**preprint**_.  -->
-- \[12\] Understanding Prompt Tuning for V-L Models Through the Lens of Neural Collapse  
-  Didi Zhu, **Zexi Li**, Min Zhang, Junkun Yuan, yunfeng shao, Yinchuan Li, Jiashuo Liu, Kun Kuang, Chao Wu\*  
-  _**preprint**_. \[[arxiv](https://arxiv.org/pdf/2306.15955.pdf)\]
 - \[11\] FediOS: Decoupling Orthogonal Subspaces for Personalization in Feature-skew Federated Learning  
   Lingzhi Gao\*, **Zexi Li\***, Yang Lu, and Chao Wu\#  
   _**preprint**_. \[[arxiv](https://arxiv.org/pdf/2311.18559.pdf)\]
