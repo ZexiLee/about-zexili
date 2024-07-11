@@ -46,6 +46,8 @@ Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com
   **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang\#, and Chao Wu\#  
 
 ## Recent News
+* **\[2024.07\]** I am happy to share our two new preprint papers: i) Generative AI goes through text-to-image to text-to-video, and we discover whether it can generate model parameters from language instructions-- i.e., text-to-model generation. Here, we present [Tina](https://arxiv.org/pdf/2405.14132), a text-to-model generative DiT, which can generate personalized model parameters directly from users' text prompts. ii) We present [WISE](https://arxiv.org/pdf/2405.14768), a model editor for large language models' lifelong model editing. WISE simultaneously reaches high performances in reliability, locality, and generalization.
+* **\[2024.05\]** Two papers are accepted by KDD 2024, and one paper is accepted by ICML 2024. 
 * **\[2023.11\]** I am presented with *Guoqiang Scholarship of Zhejiang University* (Top 0.5%) and *First Prize of Chunxiao Scholarship of BEST-MBA* (Top 3%) by Zhejiang University.
 * **\[2023.07\]** Two papers are accepted by _International Conference on Computer Vision (**ICCV 2023**)_! One is about federated learning and the other is about domain adaptation. Many thanks to my coauthors!
 * **\[2023.06\]** We will have an oral presentation of our paper [FedCNI](https://arxiv.org/abs/2304.02892) at **ICME 2023** on July 11th.
