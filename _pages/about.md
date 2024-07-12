@@ -18,6 +18,8 @@ My main research interests lie in *__i) optimization, generalization, and person
 ## Contact
 Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com
 
+Wechat and Phone: (+86) 18868104540
+
 <!--
 ## Research Interests
 * **Collaborative Deep Learning**
