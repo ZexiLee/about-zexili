@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am now pursuing my Ph.D. career in *Artificial Intelligence* at the College of Computer Science and Technology, *Zhejiang University* (ZJU), China. <!-- , supervised by Prof. [Chao Wu](https://wuchaozju.github.io/).  --> I also have a minor degree in Technology-based (BEST) MBA from the School of Management, ZJU. Before that, I received my bachelor's degree in *Engineering* from ZJU; meanwhile, I obtained an *honorary undergraduate degree* from Chu Kochen Honors College of ZJU and a minor degree in Public Affairs (social governance). 
+I am now pursuing my Ph.D. career in *Artificial Intelligence* at the College of Computer Science and Technology, __*Zhejiang University*__ (ZJU), China, supervised by Prof. [Chao Wu](https://wuchaozju.github.io/) and I will be a visiting researcher at _**the University of Cambridge**_ under the supervision of Prof. [Nicholas Lane](https://niclane.org/) from Oct. 2024. I am honored to work with Prof. [Tao Lin](https://lins-lab.github.io/) at Westlake University/EPFL. 
+
+During my Ph.D., I also earned a minor degree in Technology-based (BEST) MBA from the School of Management, ZJU. Before Ph.D., I received my bachelor's degree in *Engineering* from ZJU; meanwhile, I obtained an *honorary undergraduate degree* from Chu Kochen Honors College of ZJU and a minor degree in Public Affairs (social governance). 
 
 My main research interests lie in *__i) optimization, generalization, and personalization of deep learning models__*, especially under *distributed/federated/collaborative* setups, which are generally empowered by deep learning phenomena and mechanistic interpretability;  *__ii) trustworthy model manipulation for foundation models__*: understanding and improving foundation models (e.g., large language model, vision transformer, and diffusion transformer) from the *__model parameter perspective__*, i.e., model *fusion, editing, pruning, stitching, growth, unlearning, and generation*.
-<!-- I am honored to work with Prof. [Tao Lin](https://lins-lab.github.io/) at Westlake University/EPFL. I was a research intern at Ant Group and Zhejiang Lab. -->
+
+
 
 <span style="color: red;">I am on the job market now and will be graduated in the 2025 summer. I am open to both academic and industrial positions! Please contact me if you have matched positions.</span>
 
