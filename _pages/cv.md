@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Artificial Intelligence, Zhejiang University, 2025 (expected)
+* Visiting Ph.D. Student in Cambridge Machine Learning Systems lab, the University of Cambridge, 2024-2025
 * BEST-MBA Program, Zhejiang University, 2023
 * B.S. in Engineering, Zhejiang University, 2020
 * Minor in Undergraduate of Public Administration (UPA), Chu Kochen Honors College, Zhejiang University, 2020
