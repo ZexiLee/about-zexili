@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now pursuing my Ph.D. career in *Artificial Intelligence* at the College of Computer Science and Technology, __*Zhejiang University*__ (ZJU), China, supervised by Prof. [Chao Wu](https://wuchaozju.github.io/) and I will be a visiting researcher at _**the University of Cambridge**_ under the supervision of Prof. [Nicholas Lane](https://niclane.org/) from Oct. 2024. I am honored to work with Prof. [Tao Lin](https://lins-lab.github.io/) at Westlake University/EPFL. 
+I am now pursuing my Ph.D. career in *Artificial Intelligence* at the College of Computer Science and Technology, __*Zhejiang University*__ (ZJU), China, supervised by Prof. [Chao Wu](https://wuchaozju.github.io/) and I am now a visiting researcher at _**the University of Cambridge**_ under the supervision of Prof. [Nicholas Lane](https://niclane.org/) from Oct. 2024. I am honored to work with Prof. [Tao Lin](https://lins-lab.github.io/) at Westlake University/EPFL. 
 
 During my Ph.D., I also earned a minor degree in Technology-based (BEST) MBA from the School of Management, ZJU. Before Ph.D., I received my bachelor's degree in *Engineering* from ZJU; meanwhile, I obtained an *honorary undergraduate degree* from Chu Kochen Honors College of ZJU and a minor degree in Public Affairs (social governance). 
 
@@ -39,10 +39,10 @@ Wechat and Phone: (+86) 18868104540
   * Understanding and improving *__LLMs__*.-->
 
 ## Selected Publications
+- [**NeurIPS 2024**] [WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models](https://arxiv.org/pdf/2405.14768)  
+  Peng Wang\*, **Zexi Li\***, Ningyu Zhang\#, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, and Huajun Chen\#
 - [**Preprint**] [Text-to-Model: Text-Conditioned Neural Network Diffusion for Train-Once-for-All Personalization](https://arxiv.org/pdf/2405.14132)  
   **Zexi Li\***, Lingzhi Gao\*, and Chao Wu\#  
-- [**Preprint**] [WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models](https://arxiv.org/pdf/2405.14768)  
-  Peng Wang\*, **Zexi Li\***, Ningyu Zhang\#, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, and Huajun Chen\#
 - [**ICML 2023**] [Revisiting Weighted Aggregation in Federated Learning with Neural Networks](https://proceedings.mlr.press/v202/li23s.html)  
   **Zexi Li**, Tao Lin\#, Xinyi Shang, and Chao Wu\#  
 - [**Patterns, Cell Press**] [Can We Share Models If Sharing Data Is Not an Option?](https://www.cell.com/patterns/fulltext/S2666-3899(22)00228-8#%20)  
@@ -55,7 +55,7 @@ Wechat and Phone: (+86) 18868104540
   **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang\#, and Chao Wu\#  
 
 ## Recent News
-* **\[2024.07\]** I am happy to share our two new preprint papers: i) Generative AI goes through text-to-image to text-to-video, and we discover whether it can generate model parameters from language instructions-- i.e., text-to-model generation. Here, we present [Tina](https://arxiv.org/pdf/2405.14132), a text-to-model generative DiT, which can generate personalized model parameters directly from users' text prompts. ii) We present [WISE](https://arxiv.org/pdf/2405.14768), a model editor for large language models' lifelong model editing. WISE simultaneously reaches high performances in reliability, locality, and generalization.
+* **\[2024.09\]** I am happy to share our [WISE](https://arxiv.org/pdf/2405.14768), a model editor for large language models' lifelong model editing, is accepted to NeurIPS 2024! 
 * **\[2024.05\]** Two papers are accepted by KDD 2024, and one paper is accepted by ICML 2024. 
 * **\[2023.11\]** I am presented with *Guoqiang Scholarship of Zhejiang University* (Top 0.5%) and *First Prize of Chunxiao Scholarship of BEST-MBA* (Top 3%) by Zhejiang University.
 * **\[2023.07\]** Two papers are accepted by _International Conference on Computer Vision (**ICCV 2023**)_! One is about federated learning and the other is about domain adaptation. Many thanks to my coauthors!
@@ -72,4 +72,4 @@ Wechat and Phone: (+86) 18868104540
 * **\[2022.09\]** Our new perspective paper "Can we share models if sharing data is not an option?" is accepted by _Patterns, Cell Press_. _Patterns_ is a child-journal about _data science_ of Cell Press, and it will have a first strong impact factor in 2023.-->
 
 ## Academic Service
-* Invited Reviewers: TKDE, IJCV, AISTATS 2024, CVPR 2024, ICML 2024, NeurIPS 2024.
+* Invited Reviewers: TKDE, IJCV, AISTATS 2024, CVPR 2024, ICML 2024, NeurIPS 2024, ICLR 2024.
