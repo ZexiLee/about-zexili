@@ -42,7 +42,7 @@ My main research interests lie in *__i) optimization, generalization, and person
   _**preprint**_. \[[arxiv](https://arxiv.org/pdf/2405.14132)\]
 - \[16\] WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models  
    Peng Wang\*, **Zexi Li\***, Ningyu Zhang\#, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen\#  
-  _**preprint**_. \[[arxiv](https://arxiv.org/pdf/2405.14768)\]
+  _**NeurIPS 2024**_. \[[arxiv](https://arxiv.org/pdf/2405.14768)\]
 - \[15\] Improving Group Connectivity for Generalization of Federated Deep Learning  
   **Zexi Li\***, Jie Lin\*, Zhiqi Li\*, Didi Zhu, Tao Lin\#, Chao Wu\#  
   _**preprint**_. \[[arxiv](https://arxiv.org/pdf/2402.18949.pdf)\]
