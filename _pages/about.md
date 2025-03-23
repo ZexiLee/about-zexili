@@ -8,15 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am now a visiting researcher at _**the University of Cambridge**_ under the supervision of Prof. [Nicholas Lane](https://niclane.org/). I will be the Associate Chair of [FedKDD 2025 (Federated Learning Workshop of KDD 2025)](https://fedkdd.github.io/fedkdd2025/). I am a Ph.D. candidate in *Artificial Intelligence* at the College of Computer Science and Technology, __*Zhejiang University*__ (ZJU), China, supervised by Prof. [Chao Wu](https://wuchaozju.github.io/). I am honored to work with Prof. [Tao Lin](https://lins-lab.github.io/) at Westlake University/EPFL. 
+I am now a visiting researcher at _**the University of Cambridge**_ under the supervision of Prof. [Nicholas Lane](https://niclane.org/). I will be the Associate Chair of [FedKDD 2025](https://fedkdd.github.io/fedkdd2025/) (Federated Learning Workshop of KDD 2025). I am a Ph.D. candidate in *Artificial Intelligence* at the College of Computer Science and Technology, __*Zhejiang University*__ (ZJU), China, supervised by Prof. [Chao Wu](https://wuchaozju.github.io/). I am honored to work with Prof. [Tao Lin](https://lins-lab.github.io/) at Westlake University/EPFL. 
 
 During my Ph.D., I also earned a minor degree in Technology-based (BEST) MBA from the School of Management, ZJU. Before Ph.D., I received my bachelor's degree in *Engineering* from ZJU; meanwhile, I obtained an *honorary undergraduate degree* from Chu Kochen Honors College of ZJU and a minor degree in Public Affairs (social governance). 
 
 My main research interests lie in *__i) optimization, generalization, and personalization of deep learning models__*, especially under *distributed/federated/collaborative* setups, which are generally empowered by deep learning phenomena and mechanistic interpretability;  *__ii) trustworthy model manipulation for foundation models__*: understanding and improving foundation models (e.g., large language model, vision transformer, and diffusion transformer) from the *__model parameter perspective__*, i.e., model *fusion, editing, pruning, stitching, growth, unlearning, and generation*.
 
-
-
-<span style="color: red;">I am on the job market now and will be graduated in the 2025 summer. I am open to both academic and industrial positions! Please contact me if you have matched positions.</span>
 
 ## Contact
 Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com
@@ -73,4 +70,5 @@ Wechat and Phone: (+86) 18868104540
 * **\[2022.09\]** Our new perspective paper "Can we share models if sharing data is not an option?" is accepted by _Patterns, Cell Press_. _Patterns_ is a child-journal about _data science_ of Cell Press, and it will have a first strong impact factor in 2023.-->
 
 ## Academic Service
-* Invited Reviewers: TKDE, IJCV, AISTATS 2024, CVPR 2024, ICML 2024, NeurIPS 2024, ICLR 2024.
+* Invited Reviewers: TKDE, IJCV, TMM, Machine Learning, AISTATS 2024, CVPR 2024, ICML 2024 2025, NeurIPS 2024 2025, ICLR 2024 2025, KDD 2025, ICCV 2025.
+* Associate Chair of [FedKDD 2025](https://fedkdd.github.io/fedkdd2025/), International Joint Workshop on Federated Learning for Data Mining and Graph Analytics, Co-located with the 31st ACM SIGKDD Conference (KDD 2025).
