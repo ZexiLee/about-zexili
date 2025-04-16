@@ -35,6 +35,11 @@ Work Experience
   * _Noah's Ark Lab_
   * Researches: clustered federated learning and peer-to-peer federated learning. -->
 
+Academic Services
+======
+* __Associate Chair of FedKDD 2025__ (Federated Learning Workshop of KDD 2025).
+* __Invited Reviewers__: __Journals__: TKDE, TMM, TNNLS, TCSS, TBD, Machine Learning; __Conferences__: AISTATS 2024 \& 2025, CVPR 2024, ICML 2024 \& 2025, NeurIPS 2024 \& 2025, ICLR 2025, KDD 2025, ICCV 2025.
+
 Selected Honors
 ======
 * Guoqiang Scholarship of Zhejiang University, 2022-2023 (Top 0.5%).
