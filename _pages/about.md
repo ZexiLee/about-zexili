@@ -12,11 +12,21 @@ I am now a visiting researcher at _**the University of Cambridge**_ under the su
 
 During my Ph.D., I also earned a minor degree in Technology-based (BEST) MBA from the School of Management, ZJU. Before Ph.D., I received my bachelor's degree in *Engineering* from ZJU; meanwhile, I obtained an *honorary undergraduate degree* from Chu Kochen Honors College of ZJU and a minor degree in Public Affairs (social governance). 
 
-My main research interests lie in *__i) optimization, generalization, and personalization of deep learning models__*, especially under *distributed/federated/collaborative* setups, which are generally empowered by deep learning phenomena and mechanistic interpretability;  *__ii) trustworthy model manipulation for foundation models__*: understanding and improving foundation models (e.g., large language model, vision transformer, and diffusion transformer) from the *__model parameter perspective__*, i.e., model *fusion, editing, pruning, stitching, growth, unlearning, and generation*.
+<!--My main research interests lie in *__i) optimization, generalization, and personalization of deep learning models__*, especially under *distributed/federated/collaborative* setups, which are generally empowered by deep learning phenomena and mechanistic interpretability;  *__ii) trustworthy model manipulation for foundation models__*: understanding and improving foundation models (e.g., large language model, vision transformer, and diffusion transformer) from the *__model parameter perspective__*, i.e., model *fusion, editing, pruning, stitching, growth, unlearning, and generation*.-->
+
+My main research interests lie in the following aspects. __*Large Language models and foundation models.*__ i. Model editing and
+memory management for large language models (LLMs). ii. LLM agent and reasoning. iii. Parametric understanding of LLMs (localization, merging, scaling, pruning, stitching, unlearning,
+editing, and etc.) iv. Text-to-model generation by diffusion transformers (DiTs). v. Vision-Language
+(V-L) representation and understanding of multi-modal foundation models.
+__*Trustworthy deep learning.*__ i. Privacy-preserving federated learning (FL), efficient & robust
+algorithm design, and generalization, personalization & training dynamics understanding. ii.
+Mechanistic interpretability of neural networks, weight decay, loss landscape, permutation
+invariance, linear mode connectivity, and etc. iii. Socio-technical issues brought by collaborative
+learning. iv. Responsible and trustworthy AI.
 
 
 ## Contact
-Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com
+Email: zexi.li\[at\]zju.edu.cn / zl614\[at\]cam.ac.uk / tomleeze\[at\]gmail.com
 
 Wechat and Phone: (+86) 18868104540
 
