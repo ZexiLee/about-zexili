@@ -62,6 +62,7 @@ Wechat and Phone: (+86) 18868104540
   **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang\#, and Chao Wu\#  
 
 ## Recent News
+* **\[2025.04\]** Our paper titled "Towards Universal Personalization in Federated Learning via Collaborative Foundation Generative Models" is accepted by IEEE Transactions on Mobile Computing! Paper will be released soon.
 * **\[2025.03\]** I will be the Associate Chair of [FedKDD 2025](https://fedkdd.github.io/fedkdd2025/), International Joint Workshop on Federated Learning for Data Mining and Graph Analytics, Co-located with the 31st ACM SIGKDD Conference (KDD 2025). Submissions are welcome!
 * **\[2024.09\]** I am happy to share our [WISE](https://arxiv.org/pdf/2405.14768), a model editor for large language models' lifelong model editing, is accepted to NeurIPS 2024! 
 * **\[2024.05\]** Two papers are accepted by KDD 2024, and one paper is accepted by ICML 2024. 
