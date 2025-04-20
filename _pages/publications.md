@@ -17,8 +17,8 @@ algorithm design, and generalization, personalization & training dynamics unders
 Mechanistic interpretability of neural networks, weight decay, loss landscape, permutation
 invariance, linear mode connectivity, and etc. iii. Socio-technical issues brought by collaborative
 learning. iv. Responsible and trustworthy AI.
-<!--
-* **Optimization, Generalization, and Personalization of Deep Learning under Collaboration**
+
+<!--* **Optimization, Generalization, and Personalization of Deep Learning under Collaboration**
   * Federated deep Learning.
     * *Generalization and optimization*: improving generalization and gaining insights in training dynamics \[9, 15\].
     * *Personalization*: general personalization \[8\], personalization under clustered heterogeneity \[4\], personalization under feature skew \[11\].
