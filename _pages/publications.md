@@ -17,7 +17,7 @@ algorithm design, and generalization, personalization & training dynamics unders
 Mechanistic interpretability of neural networks, weight decay, loss landscape, permutation
 invariance, linear mode connectivity, and etc. iii. Socio-technical issues brought by collaborative
 learning. iv. Responsible and trustworthy AI.
-
+<!--
 * **Optimization, Generalization, and Personalization of Deep Learning under Collaboration**
   * Federated deep Learning.
     * *Generalization and optimization*: improving generalization and gaining insights in training dynamics \[9, 15\].
@@ -38,11 +38,16 @@ learning. iv. Responsible and trustworthy AI.
   * *Model editing* of large language models \[16\].
   * *Model generation*: text-to-model generative diffusion transformer \[17\].
   * *Model tailor*: mitigating catastrophic forgetting in multi-modal large language models \[14\].
-  * *Neural-collapse-inspired representation learning*: i) federated learning \[8\]; ii) prompt tuning for CLIP \[13\].
+  * *Neural-collapse-inspired representation learning*: i) federated learning \[8\]; ii) prompt tuning for CLIP \[13\].-->
     
 --------
-## Publications
+## Main Publications
 \* indicates equal contributions, \# indicates corresponding author.
+
+## 2025
+- \[18\] Towards Universal Personalization in Federated Learning via Collaborative Foundation Generative Models  
+  Chenrui Wu\*, **Zexi Li\***, Fangxin Wang, Hongyang Chen, Jiajun Bu, and Haishuai Wang\#  
+  _**IEEE Transactions on Mobile Computing**_. (CCF A)
 
 ## 2024
 - \[17\] Text-to-Model: Text-Conditioned Neural Network Diffusion for Train-Once-for-All Personalization  
