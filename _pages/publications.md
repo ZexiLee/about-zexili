@@ -45,29 +45,29 @@ learning. iv. Responsible and trustworthy AI.
 \* indicates equal contributions, \# indicates corresponding author.
 
 ## 2025
-- \[18\] Towards Universal Personalization in Federated Learning via Collaborative Foundation Generative Models  
+- \[18\] FedGuCci: Making Local Models More Connected in Landscape for Federated Learning  
+  **Zexi Li\***, Jie Lin\*, Zhiqi Li\*, Didi Zhu, Tao Shen, Tao Lin\#, Chao Wu\#, Nicholas D. Lane  
+  _**ACM KDD 2025**_. \[[arxiv](https://arxiv.org/pdf/2402.18949.pdf)\]
+- \[17\] Towards Universal Personalization in Federated Learning via Collaborative Foundation Generative Models  
   Chenrui Wu\*, **Zexi Li\***, Fangxin Wang, Hongyang Chen, Jiajun Bu, and Haishuai Wang\#  
-  _**IEEE Transactions on Mobile Computing**_. (CCF A)
+  _**IEEE Transactions on Mobile Computing**_. \[[paper](https://ieeexplore.ieee.org/abstract/document/10978084/)\]
 
 ## 2024
-- \[17\] Text-to-Model: Text-Conditioned Neural Network Diffusion for Train-Once-for-All Personalization  
+- \[16\] Text-to-Model: Text-Conditioned Neural Network Diffusion for Train-Once-for-All Personalization  
    **Zexi Li\***, Lingzhi Gao\*, Chao Wu\#  
   _**preprint**_. \[[arxiv](https://arxiv.org/pdf/2405.14132)\]
-- \[16\] WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models  
+- \[15\] WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models  
    Peng Wang\*, **Zexi Li\***, Ningyu Zhang\#, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen\#  
   _**NeurIPS 2024**_. \[[arxiv](https://arxiv.org/pdf/2405.14768)\]
-- \[15\] Improving Group Connectivity for Generalization of Federated Deep Learning  
-  **Zexi Li\***, Jie Lin\*, Zhiqi Li\*, Didi Zhu, Tao Lin\#, Chao Wu\#  
-  _**preprint**_. \[[arxiv](https://arxiv.org/pdf/2402.18949.pdf)\]
 - \[14\] Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models  
   Didi Zhu, Zhongyi Sun, **Zexi Li**, Tao Shen, Ke Yan, Shouhong Ding, Kun Kuang\#, Chao Wu\#  
-  _**International Conference on Machine Learning (ICML) 2024**_. (CCF A, Top Conference in Machine Learning) \[[arxiv](https://arxiv.org/pdf/2402.12048.pdf)\]
+  _**International Conference on Machine Learning (ICML) 2024**_. \[[arxiv](https://arxiv.org/pdf/2402.12048.pdf)\]
 - \[13\] Neural Collapse Anchored Prompt Tuning for Generalizable Vision-Language Models  
   Didi Zhu, **Zexi Li**, Min Zhang, Junkun Yuan, yunfeng shao, Yinchuan Li, Jiashuo Liu, Kun Kuang, Chao Wu\#  
-  _**ACM KDD 2024**_. (CCF A, Top Conference in Data Mining) \[[arxiv](https://arxiv.org/pdf/2306.15955.pdf)\]
+  _**ACM KDD 2024**_. \[[arxiv](https://arxiv.org/pdf/2306.15955.pdf)\]
 - \[12\] OpenFedLLM: Training Large Language Models on Decentralized Private Data via Federated Learning   
   Rui Ye, Wenhao Wang, Jingyi Chai, Dihan Li, **Zexi Li**, Yinda Xu, Yaxin Du, Yanfeng Wang, Siheng Chen  
-  _**ACM KDD 2024**_. (CCF A, Top Conference in Data Mining) \[[arxiv](https://arxiv.org/pdf/2402.06954)\]
+  _**ACM KDD 2024**_. \[[arxiv](https://arxiv.org/pdf/2402.06954)\]
 
 
 ## 2023
@@ -86,19 +86,19 @@ learning. iv. Responsible and trustworthy AI.
   _**preprint**_. \[[arxiv](https://arxiv.org/abs/2402.01342)\]
 - \[9\] Revisiting Weighted Aggregation in Federated Learning with Neural Networks  
   **Zexi Li**, Tao Lin\#, Xinyi Shang, and Chao Wu\#  
-  _**International Conference on Machine Learning (ICML) 2023**_. (CCF A, Top Conference in Machine Learning) \[[paper](https://proceedings.mlr.press/v202/li23s.html)\]\[[github](https://github.com/ZexiLee/ICML-2023-FedLAW)\]\[[arxiv](https://arxiv.org/abs/2302.10911)\]
+  _**International Conference on Machine Learning (ICML) 2023**_. \[[paper](https://proceedings.mlr.press/v202/li23s.html)\]\[[github](https://github.com/ZexiLee/ICML-2023-FedLAW)\]\[[arxiv](https://arxiv.org/abs/2302.10911)\]
 - \[8\] No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier  
   **Zexi Li**, Xinyi Shang, Rui He, Tao Lin\#, and Chao Wu\#  
-  _**International Conference on Computer Vision (ICCV) 2023**_. (CCF A, Top Conference in Computer Vision) \[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_No_Fear_of_Classifier_Biases_Neural_Collapse_Inspired_Federated_Learning_ICCV_2023_paper.pdf)\]\[[arxiv](https://arxiv.org/abs/2303.10058)\]
+  _**International Conference on Computer Vision (ICCV) 2023**_. \[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_No_Fear_of_Classifier_Biases_Neural_Collapse_Inspired_Federated_Learning_ICCV_2023_paper.pdf)\]\[[arxiv](https://arxiv.org/abs/2303.10058)\]
 - \[7\] Universal Domain Adaptation via Compressive Attention Matching  
   Didi Zhu\*, Yinchuan Li\*, Junkun Yuan, **Zexi Li**, Kun Kuang\#, Chao Wu\#  
-  _**International Conference on Computer Vision (ICCV) 2023**_. (CCF A, Top Conference in Computer Vision) \[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Universal_Domain_Adaptation_via_Compressive_Attention_Matching_ICCV_2023_paper.pdf)\]
+  _**International Conference on Computer Vision (ICCV) 2023**_. \[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Universal_Domain_Adaptation_via_Compressive_Attention_Matching_ICCV_2023_paper.pdf)\]
 - \[6\] Edge-cloud Collaborative Learning with Federated and Centralized Features  
   **Zexi Li\***, Qunwei Li\*, Yi Zhou, Wenliang Zhong\#, Guannan Zhang, and Chao Wu\#  
-  _**International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2023**_. (CCF A, Top Conference in Data Mining and Information Retrieval) \[[paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591976)\]\[[arxiv](https://arxiv.org/abs/2304.05871)\]
+  _**International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2023**_. \[[paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591976)\]\[[arxiv](https://arxiv.org/abs/2304.05871)\]
 - \[5\] Learning Cautiously in Federated Learning with Noisy and Heterogeneous Clients  
   Chenrui Wu\*, **Zexi Li**\*, Fangxin Wang\#, and Chao Wu\#  
-  _**(Oral) IEEE International Conference on Multimedia and Expo (ICME) 2023**_. (CCF B, Top Conference in Multimedia) \[[paper](https://www.computer.org/csdl/proceedings-article/icme/2023/689100a660/1PTNcsYjSRG)\]\[[arxiv](https://arxiv.org/abs/2304.02892)\]
+  _**(Oral) IEEE International Conference on Multimedia and Expo (ICME) 2023**_. \[[paper](https://www.computer.org/csdl/proceedings-article/icme/2023/689100a660/1PTNcsYjSRG)\]\[[arxiv](https://arxiv.org/abs/2304.02892)\]
 --
 
   
