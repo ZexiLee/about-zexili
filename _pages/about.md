@@ -48,20 +48,26 @@ Wechat and Phone: (+86) 18868104540
 ## Selected Publications
 - [**NeurIPS 2024**] [WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models](https://arxiv.org/pdf/2405.14768)  
   Peng Wang\*, **Zexi Li\***, Ningyu Zhang\#, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, and Huajun Chen\#
+- [**Preprint**] [Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?](https://arxiv.org/abs/2505.19855)  
+   **Zexi Li\***, Xiangzhu Wang\*, William F. Shen, Meghdad Kurmanji, Xinchi Qiu, Dongqi Cai, Chao Wu\#, Nicholas D. Lane\#  
+<!--
 - [**Preprint**] [Text-to-Model: Text-Conditioned Neural Network Diffusion for Train-Once-for-All Personalization](https://arxiv.org/pdf/2405.14132)  
-  **Zexi Li\***, Lingzhi Gao\*, and Chao Wu\#  
+  **Zexi Li\***, Lingzhi Gao\*, and Chao Wu\# --> 
+- [**KDD 2025**] [FedGuCci: Making Local Models More Connected in Landscape for Federated Learning](https://arxiv.org/pdf/2402.18949.pdf)  
+  **Zexi Li\***, Jie Lin\*, Zhiqi Li\*, Didi Zhu, Tao Shen, Tao Lin\#, Chao Wu\#, Nicholas D. Lane  
 - [**ICML 2023**] [Revisiting Weighted Aggregation in Federated Learning with Neural Networks](https://proceedings.mlr.press/v202/li23s.html)  
   **Zexi Li**, Tao Lin\#, Xinyi Shang, and Chao Wu\#  
 - [**Patterns, Cell Press**] [Can We Share Models If Sharing Data Is Not an Option?](https://www.cell.com/patterns/fulltext/S2666-3899(22)00228-8#%20)  
   **Zexi Li**, Feng Mao\#, and Chao Wu\#
 - [**ICCV 2023**] [No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_No_Fear_of_Classifier_Biases_Neural_Collapse_Inspired_Federated_Learning_ICCV_2023_paper.pdf)  
   **Zexi Li**, Xinyi Shang, Rui He, Tao Lin\#, and Chao Wu\#  
-- [**ACM SIGIR 2023**] [Edge-cloud Collaborative Learning with Federated and Centralized Features](https://dl.acm.org/doi/abs/10.1145/3539618.3591976)  
-  **Zexi Li\***, Qunwei Li\*, Yi Zhou, Wenliang Zhong\#, Guannan Zhang, and Chao Wu\#  
+<!--- [**ACM SIGIR 2023**] [Edge-cloud Collaborative Learning with Federated and Centralized Features](https://dl.acm.org/doi/abs/10.1145/3539618.3591976)  
+  **Zexi Li\***, Qunwei Li\*, Yi Zhou, Wenliang Zhong\#, Guannan Zhang, and Chao Wu\#-->  
 - [**IEEE Transactions on Big Data**] [Towards Effective Clustered Federated Learning: A Peer-to-peer Framework with Adaptive Neighbor Matching](https://arxiv.org/pdf/2203.12285.pdf)  
   **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang\#, and Chao Wu\#  
 
 ## Recent News
+* **\[2025.05\]** I am happy to share our new preprint "[Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?](https://arxiv.org/abs/2505.19855)"! We try to build a bridge connecting LLM editing and unlearning communities and find that editing methods are strong baselines for LLM unlearning to some extent.
 * **\[2025.05\]** Our paper titled "FedGuCci: Making Local Models More Connected in Landscape for Federated Learning" is accepted by KDD 2025!
 * **\[2025.04\]** Our paper titled "Towards Universal Personalization in Federated Learning via Collaborative Foundation Generative Models" is accepted by IEEE Transactions on Mobile Computing! Paper will be released soon.
 * **\[2025.03\]** I will be the Associate Chair of [FedKDD 2025](https://fedkdd.github.io/fedkdd2025/), International Joint Workshop on Federated Learning for Data Mining and Graph Analytics, Co-located with the 31st ACM SIGKDD Conference (KDD 2025). Submissions are welcome!
