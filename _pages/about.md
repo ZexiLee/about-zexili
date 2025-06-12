@@ -45,14 +45,14 @@ Wechat and Phone: (+86) 18868104540
   * *__Deep learning phenomena__*: neural collapse, grokking, neural scaling law, etc.
   * Understanding and improving *__LLMs__*.-->
 
+<!--[**Preprint**] [Text-to-Model: Text-Conditioned Neural Network Diffusion for Train-Once-for-All Personalization](https://arxiv.org/pdf/2405.14132)  
+  **Zexi Li\***, Lingzhi Gao\*, and Chao Wu\# --> 
+
 ## Selected Publications
 - [**NeurIPS 2024**] [WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models](https://arxiv.org/pdf/2405.14768)  
   Peng Wang\*, **Zexi Li\***, Ningyu Zhang\#, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, and Huajun Chen\#
 - [**Preprint**] [Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?](https://arxiv.org/abs/2505.19855)  
    **Zexi Li\***, Xiangzhu Wang\*, William F. Shen, Meghdad Kurmanji, Xinchi Qiu, Dongqi Cai, Chao Wu\#, Nicholas D. Lane\#  
-<!--
-- [**Preprint**] [Text-to-Model: Text-Conditioned Neural Network Diffusion for Train-Once-for-All Personalization](https://arxiv.org/pdf/2405.14132)  
-  **Zexi Li\***, Lingzhi Gao\*, and Chao Wu\# --> 
 - [**KDD 2025**] [FedGuCci: Making Local Models More Connected in Landscape for Federated Learning](https://arxiv.org/pdf/2402.18949.pdf)  
   **Zexi Li\***, Jie Lin\*, Zhiqi Li\*, Didi Zhu, Tao Shen, Tao Lin\#, Chao Wu\#, Nicholas D. Lane  
 - [**ICML 2023**] [Revisiting Weighted Aggregation in Federated Learning with Neural Networks](https://proceedings.mlr.press/v202/li23s.html)  
