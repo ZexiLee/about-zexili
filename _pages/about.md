@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am now a visiting researcher at _**the University of Cambridge**_ under the supervision of Prof. [Nicholas Lane](https://niclane.org/). I will be the Associate Chair of [FedKDD 2025](https://fedkdd.github.io/fedkdd2025/) (Federated Learning Workshop of KDD 2025). I am a Ph.D. candidate in *Artificial Intelligence* at the College of Computer Science and Technology, __*Zhejiang University*__ (ZJU), China, supervised by Prof. [Chao Wu](https://wuchaozju.github.io/). I am honored to work with Prof. [Tao Lin](https://lins-lab.github.io/) at Westlake University/EPFL. 
+I will be joining the Tongyi Lab, Alibaba Group, as a research scientist.  
+am now a visiting researcher at _**the University of Cambridge**_ under the supervision of Prof. [Nicholas Lane](https://niclane.org/). I will be the Associate Chair of [FedKDD 2025](https://fedkdd.github.io/fedkdd2025/) (Federated Learning Workshop of KDD 2025). I am a Ph.D. candidate in *Artificial Intelligence* at the College of Computer Science and Technology, __*Zhejiang University*__ (ZJU), China, supervised by Prof. [Chao Wu](https://wuchaozju.github.io/). I am honored to work with Prof. [Tao Lin](https://lins-lab.github.io/) at Westlake University/EPFL. 
 
 During my Ph.D., I also earned a minor degree in Technology-based (BEST) MBA from the School of Management, ZJU. Before Ph.D., I received my bachelor's degree in *Engineering* from ZJU; meanwhile, I obtained an *honorary undergraduate degree* from Chu Kochen Honors College of ZJU and a minor degree in Public Affairs (social governance). 
 
@@ -67,6 +68,9 @@ Wechat and Phone: (+86) 18868104540
   **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang\#, and Chao Wu\#  
 
 ## Recent News
+* **\[2025.07\]** I will be joining Tongyi Lab, Alibaba Group, as a research scientist.
+* **\[2025.06\]** I passed the PhD defense and graduated from the College of Computer Science and Technology, Zhejiang University.
+* **\[2025.06\]** Our paper "[You Are Your Own Best Teacher: Achieving Centralized-level Performance in Federated Learning under Heterogeneous and Long-tailed Data](https://arxiv.org/abs/2503.06916)" is accepted by ICCV 2025!
 * **\[2025.05\]** I am happy to share our new preprint "[Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?](https://arxiv.org/abs/2505.19855)"! We try to build a bridge connecting LLM editing and unlearning communities and find that editing methods are strong baselines for LLM unlearning to some extent.
 * **\[2025.05\]** Our paper titled "FedGuCci: Making Local Models More Connected in Landscape for Federated Learning" is accepted by KDD 2025!
 * **\[2025.04\]** Our paper titled "Towards Universal Personalization in Federated Learning via Collaborative Foundation Generative Models" is accepted by IEEE Transactions on Mobile Computing! Paper will be released soon.
