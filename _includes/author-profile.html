@@ -17,6 +17,7 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    <img src="{{ '/images/page_logo.png' | prepend: base_path }}" alt="Company Logo" style="max-width: 150px; margin-top: 10px;">
   </div>
 
   <div class="author__urls-wrapper">
