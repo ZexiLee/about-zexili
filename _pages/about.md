@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I will be joining the Tongyi Lab, Alibaba Group, as a research scientist.  
-am now a visiting researcher at _**the University of Cambridge**_ under the supervision of Prof. [Nicholas Lane](https://niclane.org/). I will be the Associate Chair of [FedKDD 2025](https://fedkdd.github.io/fedkdd2025/) (Federated Learning Workshop of KDD 2025). I am a Ph.D. candidate in *Artificial Intelligence* at the College of Computer Science and Technology, __*Zhejiang University*__ (ZJU), China, supervised by Prof. [Chao Wu](https://wuchaozju.github.io/). I am honored to work with Prof. [Tao Lin](https://lins-lab.github.io/) at Westlake University/EPFL. 
+I will be joining the Tongyi Lab, Alibaba Group, as a research scientist. I obtained the Ph.D. in *Artificial Intelligence* from the College of Computer Science and Technology, __*Zhejiang University*__ (ZJU), China, supervised by Prof. [Chao Wu](https://wuchaozju.github.io/). I was a visiting researcher at _**the University of Cambridge**_ under the supervision of Prof. [Nicholas Lane](https://niclane.org/). I am honored to work with Prof. [Tao Lin](https://lins-lab.github.io/) at Westlake University/EPFL. I am the Associate Chair of [FedKDD 2025](https://fedkdd.github.io/fedkdd2025/) (Federated Learning Workshop of KDD 2025). 
 
 During my Ph.D., I also earned a minor degree in Technology-based (BEST) MBA from the School of Management, ZJU. Before Ph.D., I received my bachelor's degree in *Engineering* from ZJU; meanwhile, I obtained an *honorary undergraduate degree* from Chu Kochen Honors College of ZJU and a minor degree in Public Affairs (social governance). 
 
@@ -27,7 +26,7 @@ learning. iv. Responsible and trustworthy AI.
 
 
 ## Contact
-Email: zexi.li\[at\]zju.edu.cn / zl614\[at\]cam.ac.uk / tomleeze\[at\]gmail.com
+Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com
 
 Wechat and Phone: (+86) 18868104540
 
@@ -77,13 +76,14 @@ Wechat and Phone: (+86) 18868104540
 * **\[2025.03\]** I will be the Associate Chair of [FedKDD 2025](https://fedkdd.github.io/fedkdd2025/), International Joint Workshop on Federated Learning for Data Mining and Graph Analytics, Co-located with the 31st ACM SIGKDD Conference (KDD 2025). Submissions are welcome!
 * **\[2024.09\]** I am happy to share our [WISE](https://arxiv.org/pdf/2405.14768), a model editor for large language models' lifelong model editing, is accepted to NeurIPS 2024! 
 * **\[2024.05\]** Two papers are accepted by KDD 2024, and one paper is accepted by ICML 2024. 
-* **\[2023.11\]** I am presented with *Guoqiang Scholarship of Zhejiang University* (Top 0.5%) and *First Prize of Chunxiao Scholarship of BEST-MBA* (Top 3%) by Zhejiang University.
+
+<!--* **\[2023.11\]** I am presented with *Guoqiang Scholarship of Zhejiang University* (Top 0.5%) and *First Prize of Chunxiao Scholarship of BEST-MBA* (Top 3%) by Zhejiang University.
 * **\[2023.07\]** Two papers are accepted by _International Conference on Computer Vision (**ICCV 2023**)_! One is about federated learning and the other is about domain adaptation. Many thanks to my coauthors!
 * **\[2023.06\]** We will have an oral presentation of our paper [FedCNI](https://arxiv.org/abs/2304.02892) at **ICME 2023** on July 11th.
 * **\[2023.04\]** Our paper ["Revisiting Weighted Aggregation in Federated Learning with Neural Networks"](https://arxiv.org/abs/2302.10911) is accepted by _The Fortieth International Conference on Machine Learning (**ICML 2023**)_! Many thanks to my coauthors!
 * **\[2023.04\]** Our paper "Edge-cloud Collaborative Learning with Federated and Centralized Features" is accepted by _The 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2023**)_! Thanks a lot to Ant Group's coauthors!
 * **\[2023.03\]** Our paper "Learning Cautiously in Federated Learning with Noisy and Heterogeneous Clients" is accepted by _IEEE International Conference on Multimedia and Expo 2023 (**ICME 2023**)_! Congratulations to me and Chenrui!
-* **\[2023.03\]** I have joined the **BEST-MBA** (**B**usiness, **E**ngineering, **S**cience, and **T**echnology based **MBA** for on-campus postgradutes) program of _School of Management, Zhejiang University_.
+* **\[2023.03\]** I have joined the **BEST-MBA** (**B**usiness, **E**ngineering, **S**cience, and **T**echnology based **MBA** for on-campus postgradutes) program of _School of Management, Zhejiang University_.--> 
 
 <!--
 * **\[2022.11\]** Our paper ["Towards Effective Clustered Federated Learning: A Peer-to-peer Framework with Adaptive Neighbor Matching"](https://www.computer.org/csdl/journal/bd/5555/01/09954190/1Inoq0EldXG)\[[arxiv](https://arxiv.org/pdf/2203.12285.pdf)\] is online now.
