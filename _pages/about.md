@@ -96,5 +96,11 @@ Wechat and Phone: (+86) 18868104540
 * **\[2022.09\]** Our new perspective paper "Can we share models if sharing data is not an option?" is accepted by _Patterns, Cell Press_. _Patterns_ is a child-journal about _data science_ of Cell Press, and it will have a first strong impact factor in 2023.-->
 
 ## Academic Service
-* Invited Reviewers: TKDE, IJCV, TMM, Machine Learning, AISTATS 2024, CVPR 2024, ICML 2024 2025, NeurIPS 2024 2025, ICLR 2024 2025, KDD 2025, ICCV 2025.
 * Associate Chair of [FedKDD 2025](https://fedkdd.github.io/fedkdd2025/), International Joint Workshop on Federated Learning for Data Mining and Graph Analytics, Co-located with the 31st ACM SIGKDD Conference (KDD 2025).
+* Session Chair of KDD 2025.
+* Invited Reviewers: TKDE, IJCV, TMM, Machine Learning, AISTATS 2024, CVPR 2024, ICML 2024 2025, NeurIPS 2024 2025, ICLR 2024 2025, KDD 2025, ICCV 2025.
+
+## Talks
+* \[2025.05.30\] 浙江省科协“科学+”平台；大模型时代，AI如何记忆与思考？
+* \[2025.04.28\] Xtra Lab, National University of Singapore; Foundation Models under Model Parameter Perspective: Model Editing, Fusion, and Generation.
+* \[2024.11.14\] Department of Computer Science and Technology, University of Cambridge; Physics in (Federated) Deep Neural Networks and Beyond: A Parametric Perspective.
