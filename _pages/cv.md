@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Artificial Intelligence, Zhejiang University, 2025 (expected)
+* Ph.D. in Artificial Intelligence, Zhejiang University, 2025
 * Visiting Ph.D. Student in Cambridge Machine Learning Systems lab, the University of Cambridge, 2024-2025
 * BEST-MBA Program, Zhejiang University, 2023
 * B.S. in Engineering, Zhejiang University, 2020
@@ -20,15 +20,19 @@ Education
 
 Work Experience
 ======
+* 2025.07-Now: Research Scientist
+  * Tongyi Lab, Alibaba Group
+  * Research: large language models, LLM agents, LLM reasoning.
+
 * 2022.07-2022.11: Research Intern
   * Ant Group
   * _Recommendation System Department_
-  * Researches: device-cloud collaborative recommendation system and federated learning.
+  * Research: device-cloud collaborative recommendation system and federated learning.
 
 * 2021.10-2022.6: Research Intern
   * Zhejiang Lab
   * _Big Data Institute_
-  * Researches: multi-agent social stimulation and federated learning.
+  * Research: multi-agent social stimulation and federated learning.
  
 <!-- * 2021.7-2021.9: Research Intern
   * Huawei
@@ -38,6 +42,7 @@ Work Experience
 Academic Services
 ======
 * __Associate Chair of FedKDD 2025__ (Federated Learning Workshop of KDD 2025).
+* __Session Chair of KDD 2025__.
 * __Invited Reviewers__: __Journals__: TKDE, TMM, TNNLS, TCSS, TBD, Machine Learning; __Conferences__: AISTATS 2024 \& 2025, CVPR 2024, ICML 2024 \& 2025, NeurIPS 2024 \& 2025, ICLR 2025, KDD 2025, ICCV 2025.
 
 Selected Honors
