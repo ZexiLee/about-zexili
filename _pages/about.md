@@ -66,9 +66,9 @@ Wechat and Phone: (+86) 18868104540
   **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang\#, and Chao Wu\#  
 
 ## Recent News
+* **\[2025.07\]** I joined Tongyi Lab, Alibaba Group, as a research scientist.
 * **\[2025.07\]** Our paper "Resource-Efficient Knowledge Editing for Mobile LLMs" has won the Best Poster Award at MobiUK 2025 in Edinburgh!
 * **\[2025.07\]** I am invited to serve as the Session Chair of KDD 2025.
-* **\[2025.07\]** I will be joining Tongyi Lab, Alibaba Group, as a research scientist.
 * **\[2025.06\]** I passed the PhD defense and graduated from the College of Computer Science and Technology, Zhejiang University.
 * **\[2025.06\]** Our paper "[You Are Your Own Best Teacher: Achieving Centralized-level Performance in Federated Learning under Heterogeneous and Long-tailed Data](https://arxiv.org/abs/2503.06916)" is accepted by ICCV 2025!
 * **\[2025.05\]** I am happy to share our new preprint "[Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?](https://arxiv.org/abs/2505.19855)"! We try to build a bridge connecting LLM editing and unlearning communities and find that editing methods are strong baselines for LLM unlearning to some extent.
