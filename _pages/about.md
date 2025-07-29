@@ -14,8 +14,8 @@ I am a research scientist at the Tongyi Lab, Alibaba Group. I obtained the Ph.D.
 
 <!--My main research interests lie in *__i) optimization, generalization, and personalization of deep learning models__*, especially under *distributed/federated/collaborative* setups, which are generally empowered by deep learning phenomena and mechanistic interpretability;  *__ii) trustworthy model manipulation for foundation models__*: understanding and improving foundation models (e.g., large language model, vision transformer, and diffusion transformer) from the *__model parameter perspective__*, i.e., model *fusion, editing, pruning, stitching, growth, unlearning, and generation*.-->
 
-My main research interests lie in the following aspects. __*Large Language models and agentic intelligence.*__ i. Model editing and
-memory management for large language models (LLMs). ii. LLM agent and reasoning. iii. Parametric understanding of LLMs (localization, merging, scaling, pruning, stitching, unlearning,
+My main research interests lie in the following aspects. __*Large Language models and agentic intelligence.*__ i. LLM agent, reasoning, and multi-agent system. ii. Model editing and
+memory management for large language models (LLMs). iii. Parametric understanding of LLMs (localization, merging, scaling, pruning, stitching, unlearning,
 editing, and etc.) iv. Text-to-model generation. 
 __*Trustworthy deep learning.*__ i. Privacy-preserving federated learning (FL), efficient & robust
 algorithm design, and generalization, personalization & training dynamics understanding. ii.
@@ -25,6 +25,9 @@ learning. iv. Responsible and trustworthy AI.
 
 
 ## Contact
+
+<font color="red">I am recruiting Research Interns at Tongyi Lab, Alibaba Group, working on LLM agent, LLM multi-agent system, reinforcement learning for agentic LLM. If you are interested, don't hesitate to contact! </font>
+
 Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com 
 
 Wechat and Phone: (+86) 18868104540
