@@ -48,12 +48,16 @@ learning. iv. Responsible and trustworthy AI.
 - Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?  
    **Zexi Li\***, Xiangzhu Wang\*, William F. Shen, Meghdad Kurmanji, Xinchi Qiu, Dongqi Cai, Chao Wu\#, Nicholas D. Lane\#  
   _**preprint**_. \[[arxiv](https://arxiv.org/abs/2505.19855)\]
+- FediOS: Decoupling Orthogonal Subspaces for Personalization in Feature-skew Federated Learning  
+  Lingzhi Gao\*, **Zexi Li\*\#**, Yang Lu, and Chao Wu\#  
+  _**Machine Learning**_. \[[arxiv](https://arxiv.org/pdf/2311.18559.pdf)\]
 - FedGuCci: Making Local Models More Connected in Landscape for Federated Learning  
   **Zexi Li\***, Jie Lin\*, Zhiqi Li\*, Didi Zhu, Tao Shen, Tao Lin\#, Chao Wu\#, Nicholas D. Lane  
   _**ACM KDD 2025**_. \[[arxiv](https://arxiv.org/pdf/2402.18949.pdf)\]
 - Towards Universal Personalization in Federated Learning via Collaborative Foundation Generative Models  
   Chenrui Wu\*, **Zexi Li\***, Fangxin Wang, Hongyang Chen, Jiajun Bu, and Haishuai Wang\#  
   _**IEEE Transactions on Mobile Computing**_. \[[paper](https://ieeexplore.ieee.org/abstract/document/10978084/)\]
+
 
 ## 2024
 - Text-to-Model: Text-Conditioned Neural Network Diffusion for Train-Once-for-All Personalization  
@@ -74,16 +78,6 @@ learning. iv. Responsible and trustworthy AI.
 
 
 ## 2023
-<!--  
-- Towards Universal Personalization in Federated Learning via Collaborative Foundation Generative Models  
-  Chenrui Wu\*, **Zexi Li\***, Fangxin Wang, Hongyang Chen, Jiajun Bu, and Haishuai Wang\*  
-  _**preprint**_. 
-- Unveiling Linear Mode Connectivity of Re-basin from Neuron Distribution Perspective  
-  Zhiqi Li\*, **Zexi Li\***, Mian Wu\*, Cheng Wan, and Chao Wu\#  
-  _**preprint**_.  -->
-- FediOS: Decoupling Orthogonal Subspaces for Personalization in Feature-skew Federated Learning  
-  Lingzhi Gao\*, **Zexi Li\***, Yang Lu, and Chao Wu\#  
-  _**preprint**_. \[[arxiv](https://arxiv.org/pdf/2311.18559.pdf)\]
 - Training-time Neuron Alignment through Permutation Subspace for Improving Linear Mode Connectivity and Model Fusion  
   **Zexi Li**, Zhiqi Li, Jie Lin, Tao Shen, Tao Lin\#, and Chao Wu\#  
   _**preprint**_. \[[arxiv](https://arxiv.org/abs/2402.01342)\]
