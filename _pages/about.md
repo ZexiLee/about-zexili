@@ -69,6 +69,7 @@ Wechat and Phone: (+86) 18868104540
   **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang\#, and Chao Wu\#  
 
 ## Recent News
+* **\[2025.07\]** I am happy to share that we have one paper recently accepted by ACM MM 2025 about text-to-weight generation and one paper accepted by Machine Learning (journal) about personalized federated learning!
 * **\[2025.07\]** I joined Tongyi Lab, Alibaba Group, as a research scientist.
 * **\[2025.07\]** Our paper "Resource-Efficient Knowledge Editing for Mobile LLMs" has won the Best Poster Award at MobiUK 2025 in Edinburgh!
 * **\[2025.07\]** I am invited to serve as the Session Chair of KDD 2025.
