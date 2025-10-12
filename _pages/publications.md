@@ -45,6 +45,9 @@ learning. iv. Responsible and trustworthy AI.
 \* indicates equal contributions, \# indicates corresponding author, † indicates mentorship.
 
 ## 2025
+- Improving Model Fusion by Training-time Neuron Alignment with Fixed Neuron Anchors  
+  **Zexi Li**, Zhiqi Li, Jie Lin, Tao Shen, Jun Xiao, Yike Guo\#, Tao Lin\#, Chao Wu\#  
+  _**IEEE Transactions on Pattern Analysis and Machine Intelligence**_. \[[arxiv](https://arxiv.org/abs/2402.01342)\]
 - Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?  
   **Zexi Li\*†**, Xiangzhu Wang\*, William F. Shen, Meghdad Kurmanji, Xinchi Qiu, Dongqi Cai, Chao Wu\#, Nicholas D. Lane\#  
   _**preprint**_. \[[arxiv](https://arxiv.org/abs/2505.19855)\]
@@ -87,9 +90,6 @@ learning. iv. Responsible and trustworthy AI.
 
 
 ## 2023
-- Training-time Neuron Alignment through Permutation Subspace for Improving Linear Mode Connectivity and Model Fusion  
-  **Zexi Li**, Zhiqi Li, Jie Lin, Tao Shen, Tao Lin\#, and Chao Wu\#  
-  _**preprint**_. \[[arxiv](https://arxiv.org/abs/2402.01342)\]
 - Revisiting Weighted Aggregation in Federated Learning with Neural Networks  
   **Zexi Li**, Tao Lin\#, Xinyi Shang, and Chao Wu\#  
   _**ICML 2023**_. \[[paper](https://proceedings.mlr.press/v202/li23s.html)\]\[[github](https://github.com/ZexiLee/ICML-2023-FedLAW)\]\[[arxiv](https://arxiv.org/abs/2302.10911)\]
