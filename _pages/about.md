@@ -51,6 +51,8 @@ Wechat and Phone: (+86) 18868104540
   **Zexi Li\***, Lingzhi Gao\*, and Chao Wu\# --> 
 
 ## Selected Publications
+- [**IEEE Transactions on Pattern Analysis and Machine Intelligence**] [Improving Model Fusion by Training-time Neuron Alignment with Fixed Neuron Anchors](https://arxiv.org/abs/2402.01342)  
+  **Zexi Li**, Zhiqi Li, Jie Lin, Tao Shen, Jun Xiao, Yike Guo\#, Tao Lin\#, Chao Wu\#
 - [**NeurIPS 2024**] [WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models](https://arxiv.org/pdf/2405.14768)  
   Peng Wang\*, **Zexi Li\***, Ningyu Zhang\#, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, and Huajun Chen\#
 - [**Preprint**] [Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?](https://arxiv.org/abs/2505.19855)  
@@ -69,6 +71,7 @@ Wechat and Phone: (+86) 18868104540
   **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang\#, and Chao Wu\#  
 
 ## Recent News
+* **\[2025.10\]** I am excited to share that our work titled "Improving Model Fusion by Training-time Neuron Alignment with Fixed Neuron Anchors" is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!
 * **\[2025.07\]** I am happy to share that we have one paper recently accepted by ACM MM 2025 about text-to-weight generation and one paper accepted by Machine Learning (journal) about personalized federated learning!
 * **\[2025.07\]** I joined Tongyi Lab, Alibaba Group, as a research scientist.
 * **\[2025.07\]** Our paper "Resource-Efficient Knowledge Editing for Mobile LLMs" has won the Best Poster Award at MobiUK 2025 in Edinburgh!
