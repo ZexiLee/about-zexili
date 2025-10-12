@@ -55,7 +55,7 @@ Wechat and Phone: (+86) 18868104540
   **Zexi Li**, Zhiqi Li, Jie Lin, Tao Shen, Jun Xiao, Yike Guo\#, Tao Lin\#, Chao Wu\#
 - [**NeurIPS 2024**] [WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models](https://arxiv.org/pdf/2405.14768)  
   Peng Wang\*, **Zexi Li\***, Ningyu Zhang\#, Ziwen Xu, Yunzhi Yao, Yong Jiang, Pengjun Xie, Fei Huang, and Huajun Chen\#
-- [**Preprint**] [Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?](https://arxiv.org/abs/2505.19855)  
+- [**NeurIPS 2025 Workshops Lock-LLM & LLM Evals**] [Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?](https://arxiv.org/abs/2505.19855)  
    **Zexi Li\***, Xiangzhu Wang\*, William F. Shen, Meghdad Kurmanji, Xinchi Qiu, Dongqi Cai, Chao Wu\#, Nicholas D. Lane\#  
 - [**KDD 2025**] [FedGuCci: Making Local Models More Connected in Landscape for Federated Learning](https://arxiv.org/pdf/2402.18949.pdf)  
   **Zexi Li\***, Jie Lin\*, Zhiqi Li\*, Didi Zhu, Tao Shen, Tao Lin\#, Chao Wu\#, Nicholas D. Lane  
