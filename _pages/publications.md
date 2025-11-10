@@ -50,7 +50,7 @@ learning. iv. Responsible and trustworthy AI.
   _**IEEE Transactions on Pattern Analysis and Machine Intelligence**_. \[[arxiv](https://arxiv.org/abs/2402.01342)\]
 - Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?  
   **Zexi Li\*†**, Xiangzhu Wang\*, William F. Shen, Meghdad Kurmanji, Xinchi Qiu, Dongqi Cai, Chao Wu\#, Nicholas D. Lane\#  
-  _**NeurIPS 2025 Workshops Lock-LLM & LLM Evals**_. \[[arxiv](https://arxiv.org/abs/2505.19855)\]
+  _**AAAI 2026; NeurIPS 2025 Workshops Lock-LLM & LLM Evals**_. \[[arxiv](https://arxiv.org/abs/2505.19855)\]
 - FedGuCci: Making Local Models More Connected in Landscape for Federated Learning  
   **Zexi Li\***, Jie Lin\*, Zhiqi Li\*, Didi Zhu, Tao Shen, Tao Lin\#, Chao Wu\#, Nicholas D. Lane  
   _**ACM KDD 2025**_. \[[arxiv](https://arxiv.org/pdf/2402.18949.pdf)\]
