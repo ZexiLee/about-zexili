@@ -71,6 +71,7 @@ Wechat and Phone: (+86) 18868104540
   **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang\#, and Chao Wu\#  
 
 ## Recent News
+* **\[2025.11\]** I am happy to share that our work "Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?" is accepted by AAAI 2026 AI Alignment Track! 
 * **\[2025.10\]** I am excited to share that our work titled "Improving Model Fusion by Training-time Neuron Alignment with Fixed Neuron Anchors" is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!
 * **\[2025.07\]** I am happy to share that we have one paper recently accepted by ACM MM 2025 about text-to-weight generation and one paper accepted by Machine Learning (journal) about personalized federated learning!
 * **\[2025.07\]** I joined Tongyi Lab, Alibaba Group, as a research scientist.
