@@ -20,7 +20,11 @@ Education
 
 Work Experience
 ======
-* 2025.07-Now: Research Scientist
+* 2026.03-Now: Lead Research Scientist
+  * Knowin AI
+  * Research: Agents, Memory, Embodied Intelligence.
+  
+* 2025.07-2026.02: Research Scientist
   * Tongyi Lab, Alibaba Group
   * Research: large language models, LLM agents, LLM reasoning.
 
@@ -47,6 +51,7 @@ Academic Services
 
 Selected Honors
 ======
+* Best Paper Award at MobiUK 2025.
 * Guoqiang Scholarship of Zhejiang University, 2022-2023 (Top 0.5%).
 * First Prize of Chunxiao Scholarship of BEST-MBA, 2023 (Top 3%).
 * Outstanding Postgraduate Students of ZJU, 2021-2023.
