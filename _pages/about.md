@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have joined __Knowin AI__ as a Lead Research Scientist, leading the Embodied Agent Brain and Memory Systems. I am also an incoming Postdoc researcher at the Chinese University of Hong Kong. I was a Senior Research Scientist (_Alibaba Star Talent_) at the Tongyi Lab, Alibaba Group. I obtained the Ph.D. in *Artificial Intelligence* from the College of Computer Science and Technology, Zhejiang University (ZJU), China, supervised by Prof. [Chao Wu](https://wuchaozju.github.io/). I was a visiting researcher at the University of Cambridge under the supervision of Prof. [Nicholas Lane](https://niclane.org/). I worked closely with Prof. [Tao Lin](https://lins-lab.github.io/) at Westlake University/EPFL. 
+I have joined __Knowin AI__ as a Lead Research Scientist, leading the Embodied Agent Brain and Memory Systems. I am also a Postdoc researcher at the Chinese University of Hong Kong. I was a Senior Research Scientist (_Alibaba Star Talent_) at the Tongyi Lab, Alibaba Group. I obtained the Ph.D. in *Artificial Intelligence* from the College of Computer Science and Technology, Zhejiang University (ZJU), China, supervised by Prof. [Chao Wu](https://wuchaozju.github.io/). I was a visiting researcher at the University of Cambridge under the supervision of Prof. [Nicholas Lane](https://niclane.org/). I worked closely with Prof. [Tao Lin](https://lins-lab.github.io/) at Westlake University/EPFL. 
 
 <!--I am the Associate Chair of [FedKDD 2025](https://fedkdd.github.io/fedkdd2025/) (Federated Learning Workshop of KDD 2025). During my Ph.D., I also earned a minor degree in Technology-based (BEST) MBA from the School of Management, ZJU. Before Ph.D., I received my bachelor's degree in *Engineering* from ZJU; meanwhile, I obtained an *honorary undergraduate degree* from Chu Kochen Honors College of ZJU and a minor degree in Public Affairs (social governance).-->
 
@@ -50,6 +50,8 @@ Wechat and Phone: (+86) 18868104540
   **Zexi Li\***, Lingzhi Gao\*, and Chao Wu\# --> 
 
 ## Selected Publications
+- [**Patterns, Cell Press**] [Tina: A Diffusion Neural Network for Generating Personalized AI Models from Text Prompts](https://www.cell.com/patterns/fulltext/S2666-3899(26)00080-2)  
+  **Zexi Li\*\#**, Lingzhi Gao\*, Dongqi Cai, Nicholas D. Lane\#, Chao Wu\#
 - [**IEEE Transactions on Pattern Analysis and Machine Intelligence**] [Improving Model Fusion by Training-time Neuron Alignment with Fixed Neuron Anchors](https://arxiv.org/abs/2402.01342)  
   **Zexi Li**, Zhiqi Li, Jie Lin, Tao Shen, Jun Xiao, Yike Guo\#, Tao Lin\#, Chao Wu\#
 - [**NeurIPS 2024**] [WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models](https://arxiv.org/pdf/2405.14768)  
@@ -70,7 +72,8 @@ Wechat and Phone: (+86) 18868104540
   **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang\#, and Chao Wu\#  
 
 ## Recent News
-* **\[2026.03\]** Life updates: I stepped down from Tongyi Lab, Alibaba, and joined Known AI and CUHK.
+* **\[2026.05\]** Recent news: two papers were accepted by ICML 2026, one paper was accepted by Cell Press Patterns (got cover invitation), and one paper was accepted by KDD 2026!
+* **\[2026.03\]** I stepped down from Tongyi Lab, Alibaba, and joined Known AI and CUHK.
 * **\[2025.11\]** I am happy to share that our work "Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?" is accepted by AAAI 2026 AI Alignment Track! 
 * **\[2025.10\]** I am excited to share that our work titled "Improving Model Fusion by Training-time Neuron Alignment with Fixed Neuron Anchors" is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!
 * **\[2025.07\]** I am happy to share that we have one paper recently accepted by ACM MM 2025 about text-to-weight generation and one paper accepted by Machine Learning (journal) about personalized federated learning!
