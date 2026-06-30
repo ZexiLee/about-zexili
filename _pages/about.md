@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I have joined __Knowin AI__ as a Lead Research Scientist, leading the Embodied Agent Brain and Memory Systems. I am also a Postdoc researcher at the Chinese University of Hong Kong. I was a Senior Research Scientist (_Alibaba Star Talent_) at the Tongyi Lab, Alibaba Group. I obtained the Ph.D. in *Artificial Intelligence* from the College of Computer Science and Technology, Zhejiang University (ZJU), China, supervised by Prof. [Chao Wu](https://wuchaozju.github.io/). I was a visiting researcher at the University of Cambridge under the supervision of Prof. [Nicholas Lane](https://niclane.org/). I worked closely with Prof. [Tao Lin](https://lins-lab.github.io/) at Westlake University/EPFL. 
+I am a Postdoc researcher at the Chinese University of Hong Kong. I was a Senior Research Scientist (_Alibaba Star Talent_) at the Tongyi Lab, Alibaba Group. I obtained the Ph.D. in *Artificial Intelligence* from the College of Computer Science and Technology, Zhejiang University (ZJU), China, supervised by Prof. [Chao Wu](https://wuchaozju.github.io/). I was a visiting researcher at the University of Cambridge under the supervision of Prof. [Nicholas Lane](https://niclane.org/). I worked closely with Prof. [Tao Lin](https://lins-lab.github.io/) at Westlake University/EPFL. 
 
 <!--I am the Associate Chair of [FedKDD 2025](https://fedkdd.github.io/fedkdd2025/) (Federated Learning Workshop of KDD 2025). During my Ph.D., I also earned a minor degree in Technology-based (BEST) MBA from the School of Management, ZJU. Before Ph.D., I received my bachelor's degree in *Engineering* from ZJU; meanwhile, I obtained an *honorary undergraduate degree* from Chu Kochen Honors College of ZJU and a minor degree in Public Affairs (social governance).-->
 
 <!--My main research interests lie in *__i) optimization, generalization, and personalization of deep learning models__*, especially under *distributed/federated/collaborative* setups, which are generally empowered by deep learning phenomena and mechanistic interpretability;  *__ii) trustworthy model manipulation for foundation models__*: understanding and improving foundation models (e.g., large language model, vision transformer, and diffusion transformer) from the *__model parameter perspective__*, i.e., model *fusion, editing, pruning, stitching, growth, unlearning, and generation*.-->
 
-Knowin AI is an embodied AI startup focused on home robotics. It is building the next-generation paradigm for embodied intelligence, covering full-stack R&D across both algorithms and hardware, with the goal of bringing robots into everyone's life.
 
 My current research interests lie in the agent and memory systems of embodied intelligence, including low-level manipulation (working memory) and high-level planning \& memorization (long-term memory). 
 
@@ -25,9 +24,7 @@ editing, and etc.) iv. Text-to-model generation.-->
 
 ## Contact
 
-<font color="red">We are recruiting Research Interns / PhD Students (CUHK or HKUSTGZ)/ Full-time Developers & Researchers at Knowin AI, working on various aspects of Embodied AI, including agents, manipulations, VLMs, WAMs, VLAs, etc. If you are interested, don't hesitate to contact! </font>
-
-Email: lizexi\[at\]knowin.ai / zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com 
+Email: zexi.li\[at\]zju.edu.cn / tomleeze\[at\]gmail.com / zexili\[at\]cuhk.edu.hk
 
 Wechat and Phone: (+86) 18868104540
 
@@ -73,7 +70,7 @@ Wechat and Phone: (+86) 18868104540
 
 ## Recent News
 * **\[2026.05\]** Recent news: two papers were accepted by ICML 2026, one paper was accepted by Cell Press Patterns (got cover invitation), and one paper was accepted by KDD 2026!
-* **\[2026.03\]** I stepped down from Tongyi Lab, Alibaba, and joined Known AI and CUHK.
+* **\[2026.03\]** I stepped down from Tongyi Lab, Alibaba, and joined CUHK.
 * **\[2025.11\]** I am happy to share that our work "Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?" is accepted by AAAI 2026 AI Alignment Track! 
 * **\[2025.10\]** I am excited to share that our work titled "Improving Model Fusion by Training-time Neuron Alignment with Fixed Neuron Anchors" is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!
 * **\[2025.07\]** I am happy to share that we have one paper recently accepted by ACM MM 2025 about text-to-weight generation and one paper accepted by Machine Learning (journal) about personalized federated learning!
