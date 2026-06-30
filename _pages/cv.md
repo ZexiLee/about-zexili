@@ -20,8 +20,8 @@ Education
 
 Work Experience
 ======
-* 2026.03-Now: Lead Research Scientist
-  * Knowin AI
+* 2026.05-Now: Postdoctoral Research Fellow
+  * CUHK
   * Research: Agents, Memory, Embodied Intelligence.
   
 * 2025.07-2026.02: Research Scientist
