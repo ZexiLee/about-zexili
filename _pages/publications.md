@@ -8,15 +8,11 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=6lMg5eoAAAAJ)
 
 ## Research Outlines
-My main research interests lie in the following aspects. __*Large Language models and foundation models.*__ i. Model editing and
-memory management for large language models (LLMs). ii. LLM agent and reasoning. iii. Parametric understanding of LLMs (localization, merging, scaling, pruning, stitching, unlearning,
-editing, and etc.) iv. Text-to-model generation by diffusion transformers (DiTs). v. Vision-Language
-(V-L) representation and understanding of multi-modal foundation models.
-__*Trustworthy deep learning.*__ i. Privacy-preserving federated learning (FL), efficient & robust
-algorithm design, and generalization, personalization & training dynamics understanding. ii.
-Mechanistic interpretability of neural networks, weight decay, loss landscape, permutation
-invariance, linear mode connectivity, and etc. iii. Socio-technical issues brought by collaborative
-learning. iv. Responsible and trustworthy AI.
+My main research interests lie in the following aspects.
+
+__*Agentic Intelligence and Foundation models.*__ i. Multi-modal and embodied agent systems. ii. Agentic RL training. iii. Self-evolving agents. iv. Memory management for foundation models, e.g., model editing, unlearning, merging, generation and etc. 
+
+__*Collaborative Deep Learning.*__ i. Human-AI collaborative learning, e.g., proactive user-centric agent systems, personalized deep learning. ii. Edge-cloud collaborative learning under heterogeneous data collaboration, and its *generalization, personalization & training dynamics* understanding. iii. Socio-technical issues brought by collaborative learning.
 
 <!--* **Optimization, Generalization, and Personalization of Deep Learning under Collaboration**
   * Federated deep Learning.
@@ -43,6 +39,26 @@ learning. iv. Responsible and trustworthy AI.
 --------
 ## Main Publications
 \* indicates equal contributions, \# indicates corresponding author, † indicates mentorship.
+
+## 2026
+- WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents  
+  Yehang Zhang, Jianchong Su, Haojian Huang, Yifan Chang, Tianhao Zhou, Xinli Xu, Yingjie Xu, Yinchuan Li, **Zexi Li†**, Ying-Cong Chen\#  
+  _**Preprint**_.
+- IntentRL: Training Proactive User-intent Agents for Open-ended Deep Research via Reinforcement Learning  
+  Haohao Luo\*, **Zexi Li\***, Yuexiang Xie, Wenhao Zhang, Yaliang Li, Ying Shen†  
+  _**International Conference on Machine Learning (ICML) 2026**_.
+- AnyEdit++: Adaptive Long-Form Knowledge Editing via Bayesian Surprise  
+  Bowen Tian, Caixue He, Jiemin Wu, Jingying Wang, Wenshuo Chen, **Zexi Li†**, Yutao Yue\#  
+  _**International Conference on Machine Learning (ICML) 2026**_.
+- Sparsity Curse: Understanding RLVR Model Parameter Space from Model Merging  
+  Chenrui Wu\*, **Zexi Li\***, Jiajun Bu, Jiangchuan Liu, Haishuai Wang\#  
+  _**Proceedings of the 32nd ACM SIGKDD Conference, KDD 2026**_.
+- Tina: A Diffusion Neural Network for Generating Personalized AI Models from Text Prompts  
+  **Zexi Li\*\#**, Lingzhi Gao\*, Dongqi Cai, Nicholas D. Lane\#, Chao Wu\#  
+  _**Patterns, Cell Press (Cover Invitation)**_.
+- Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?  
+  **Zexi Li\*\#**, Xiangzhu Wang\*, William F. Shen, Meghdad Kurmanji, Xinchi Qiu, Dongqi Cai, Chao Wu\#, Nicholas D. Lane\#  
+  _**AAAI 2026 AI Alignment Track; NeurIPS 2025 Workshops on LLM Evaluation & Lock-LLM**_.
 
 ## 2025
 - Improving Model Fusion by Training-time Neuron Alignment with Fixed Neuron Anchors  
