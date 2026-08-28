@@ -64,12 +64,13 @@ Wechat and Phone: (+86) 18868104540
 - [**ICCV 2023**] [No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_No_Fear_of_Classifier_Biases_Neural_Collapse_Inspired_Federated_Learning_ICCV_2023_paper.pdf)  
   **Zexi Li**, Xinyi Shang, Rui He, Tao Lin\#, and Chao Wu\#  
 <!--- [**ACM SIGIR 2023**] [Edge-cloud Collaborative Learning with Federated and Centralized Features](https://dl.acm.org/doi/abs/10.1145/3539618.3591976)  
-  **Zexi Li\***, Qunwei Li\*, Yi Zhou, Wenliang Zhong\#, Guannan Zhang, and Chao Wu\#-->  
+  **Zexi Li\***, Qunwei Li\*, Yi Zhou, Wenliang Zhong\#, Guannan Zhang, and Chao Wu\#  
 - [**IEEE Transactions on Big Data**] [Towards Effective Clustered Federated Learning: A Peer-to-peer Framework with Adaptive Neighbor Matching](https://arxiv.org/pdf/2203.12285.pdf)  
-  **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang\#, and Chao Wu\#  
+  **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang\#, and Chao Wu\#-->  
 
 ## Recent News
-* **\[2026.05\]** Recent news: two papers were accepted by ICML 2026, one paper was accepted by Cell Press Patterns (got cover invitation), and one paper was accepted by KDD 2026!
+* **\[2026.08\]** Recent news: two papers, WorldLines and R<sup>3</sup>L, were accepted to EMNLP 2026 main!
+* **\[2026.05\]** Two papers were accepted by ICML 2026, one paper was accepted by Cell Press Patterns (got cover invitation), and one paper was accepted by KDD 2026!
 * **\[2026.03\]** I stepped down from Tongyi Lab, Alibaba, and joined CUHK.
 * **\[2025.11\]** I am happy to share that our work "Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?" is accepted by AAAI 2026 AI Alignment Track! 
 * **\[2025.10\]** I am excited to share that our work titled "Improving Model Fusion by Training-time Neuron Alignment with Fixed Neuron Anchors" is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!
