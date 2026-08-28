@@ -8,11 +8,13 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=6lMg5eoAAAAJ)
 
 ## Research Outlines
-My main research interests lie in the following aspects.
+My main research interests lie in the following three areas:
 
-__*Agentic Intelligence and Foundation models.*__ i. Multi-modal and embodied agent systems. ii. Agentic RL training. iii. Self-evolving agents. iv. Memory management for foundation models, e.g., model editing, unlearning, merging, generation and etc. 
+- ***Evolving AI Systems.*** Lifelong model editing, parameter generation and understanding, and memory management for foundation models, including model editing, unlearning, merging, and generation. Recursive self-improving embodied agentic systems.
 
-__*Collaborative Deep Learning.*__ i. Human-AI collaborative learning, e.g., proactive user-centric agent systems, personalized deep learning. ii. Edge-cloud collaborative learning under heterogeneous data collaboration, and its *generalization, personalization & training dynamics* understanding. iii. Socio-technical issues brought by collaborative learning.
+- ***Agentic Intelligence.*** Multimodal and embodied agent systems, agentic reinforcement learning, and self-evolving agents.
+
+- ***Collaborative Deep Learning.*** Human–AI collaborative learning, proactive user-centric agent systems, personalized deep learning, and distributed edge–cloud learning under heterogeneous data. I am also interested in their generalization, personalization, and training dynamics, as well as related deep learning phenomena and socio-technical issues.
 
 <!--* **Optimization, Generalization, and Personalization of Deep Learning under Collaboration**
   * Federated deep Learning.
@@ -43,7 +45,7 @@ __*Collaborative Deep Learning.*__ i. Human-AI collaborative learning, e.g., pro
 ## 2026
 - WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents  
   Yehang Zhang, Jianchong Su, Haojian Huang, Yifan Chang, Tianhao Zhou, Xinli Xu, Yingjie Xu, Yinchuan Li, **Zexi Li†**, Ying-Cong Chen\#  
-  _**Preprint**_.
+  _**EMNLP 2026 Main**_.
 - IntentRL: Training Proactive User-intent Agents for Open-ended Deep Research via Reinforcement Learning  
   Haohao Luo\*, **Zexi Li\***, Yuexiang Xie, Wenhao Zhang, Yaliang Li, Ying Shen†  
   _**International Conference on Machine Learning (ICML) 2026**_.
@@ -59,6 +61,9 @@ __*Collaborative Deep Learning.*__ i. Human-AI collaborative learning, e.g., pro
 - Editing as Unlearning: Are Knowledge Editing Methods Strong Baselines for Large Language Model Unlearning?  
   **Zexi Li\*\#**, Xiangzhu Wang\*, William F. Shen, Meghdad Kurmanji, Xinchi Qiu, Dongqi Cai, Chao Wu\#, Nicholas D. Lane\#  
   _**AAAI 2026 AI Alignment Track; NeurIPS 2025 Workshops on LLM Evaluation & Lock-LLM**_.
+- R<sup>3</sup>L: Reflect-then-Retry Reinforcement Learning with Language-Guided Exploration, Pivotal Credit, and Positive Amplification\
+  Weijie Shi, Yanxi Chen, **Zexi Li**, Xuchen Pan, Yuchang Sun, Jiajie Xu, Xiaofang Zhou, Yaliang Li\
+  ***EMNLP 2026 Main***.
 
 ## 2025
 - Improving Model Fusion by Training-time Neuron Alignment with Fixed Neuron Anchors  
