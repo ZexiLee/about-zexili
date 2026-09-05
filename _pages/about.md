@@ -64,8 +64,8 @@ Wechat and Phone: (+86) 18868104540
 - [**ICCV 2023**] [No Fear of Classifier Biases: Neural Collapse Inspired Federated Learning with Synthetic and Fixed Classifier](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_No_Fear_of_Classifier_Biases_Neural_Collapse_Inspired_Federated_Learning_ICCV_2023_paper.pdf)  
   **Zexi Li**, Xinyi Shang, Rui He, Tao Lin\#, and Chao Wu\#  
 <!--- [**ACM SIGIR 2023**] [Edge-cloud Collaborative Learning with Federated and Centralized Features](https://dl.acm.org/doi/abs/10.1145/3539618.3591976)  
-  **Zexi Li\***, Qunwei Li\*, Yi Zhou, Wenliang Zhong\#, Guannan Zhang, and Chao Wu\#  
-- [**IEEE Transactions on Big Data**] [Towards Effective Clustered Federated Learning: A Peer-to-peer Framework with Adaptive Neighbor Matching](https://arxiv.org/pdf/2203.12285.pdf)  
+  **Zexi Li\***, Qunwei Li\*, Yi Zhou, Wenliang Zhong\#, Guannan Zhang, and Chao Wu\#-->  
+<!--- [**IEEE Transactions on Big Data**] [Towards Effective Clustered Federated Learning: A Peer-to-peer Framework with Adaptive Neighbor Matching](https://arxiv.org/pdf/2203.12285.pdf)  
   **Zexi Li**, Jiaxun Lu, Shuang Luo, Didi Zhu, Yunfeng Shao, Yinchuan Li, Zhimeng Zhang, Yongheng Wang\#, and Chao Wu\#-->  
 
 ## Recent News
